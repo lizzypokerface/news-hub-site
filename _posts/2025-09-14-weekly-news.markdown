@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  🌏 Global Briefing | 14 September 2025"
+title:  🌏 Global Briefing | 14 September 2025
 date:   2025-09-14 08:00:00 +0800
 categories: weekly news
 ---
