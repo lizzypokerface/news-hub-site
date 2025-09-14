@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "🌏 Global Update | 14 September 2025"
-date:   2025-09-14 08:00:00 +0800
+date:   2025-09-14 00:00:00 +0800
 categories: weekly news
 ---
 
