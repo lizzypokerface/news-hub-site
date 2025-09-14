@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "🌏 Global Update | 14 September 2025"
-date:   2025-09-14 00:00:00 +0800
+title:  🌏 Global Briefing | 14 September 2025"
+date:   2025-09-14 08:00:00 +0800
 categories: weekly news
 ---
 
@@ -16,8 +16,9 @@ categories: weekly news
 * [`Breakthrough News` Godfather of Chinese Hip Hop: Detroit Rapper Speaks Out Against US Propaganda](https://www.youtube.com/watch?v=5GtW_QHpZn8)
 * [`Geopolitical Economy Report` US attacks blow back, uniting China, India, Russia, Iran; encouraging dedollarization](https://www.youtube.com/watch?v=qsFGCUtzzQ8)
 * [`Geopolitical Economy Report` Trump failed to divide Russia and China: They're closer than ever, building a new multipolar order](https://www.youtube.com/watch?v=f-bq4347Z18)
+* [`Progressive International` PI Briefing   No. 33   Genocide on Trial   Progressive International](https://progressive.international/wire/2025-09-08-pi-briefing-no-33-genocide-on-trial/en)
 * [`The China Academy` Chinese To Palestinians : "We Will Always Stand By Your Side Because We Were You"](https://chinaacademy.substack.com/p/chinese-to-palestinians-we-will-always)
-* [`The Socialist Program` Mass Arrests of Workers in U.S., Trump’s Policies Unite China, Russia, Iran & North Korea Into Anti-Hegemony Coalition [FULL]](https://www.patreon.com/posts/138240945?collection=877189)
+* [`The Socialist Program` Mass Arrests of Workers in U.S., Trump’s Policies Unite China, Russia, Iran & North Korea Into Anti-Hegemony Coalition  FULL ](https://www.patreon.com/posts/138240945?collection=877189)
 * [`Transnational Foundation` A Call to Citizens Everywhere #1/3: Choose Your Action for Justice](https://thetransnational.substack.com/p/a-call-to-citizens-everywhere-choose)
 * [`Glenn Diesen` Einar Tangen: China, Russia & India Build New Economic World Order](https://www.youtube.com/watch?v=aeWjh0oBOls)
 * [`Glenn Diesen` Richard Wolff: US Empire in Collapse, China Builds Rival System](https://www.youtube.com/watch?v=_iLrbmPw2lc)
@@ -31,8 +32,9 @@ categories: weekly news
 * [`India & Global Left` South Caucasus Geopolitics: Armenia, Georgia & Azerbaijan Between Russia and the U.S.](https://www.youtube.com/watch?v=T7TLV_mYH70)
 * [`India & Global Left` Will the U.S. Empire Collapse or Retreat? Lawrence Wilkerson Weighs In](https://www.youtube.com/watch?v=D9hNZrBxfQI)
 * [`India & Global Left` Ben Norton: US Imperialism EXPOSED in West Asia and Latin America](https://www.youtube.com/watch?v=unz02N_Qdt4)
-* [`Neutrality Studies` The „Rest“ Leaving Behind The West. Russia, China, SCO Building The Future | Dr. Michael Rossi](https://www.youtube.com/watch?v=vMKSOVJEa0I)
-* [`Neutrality Studies` Russia & China United: The USA Made Kissingers Nightmare Come True | Prof. Rein Müllerson](https://www.youtube.com/watch?v=TC5JPXIwXU0)
+* [`Neutrality Studies` The „Rest“ Leaving Behind The West. Russia, China, SCO Building The Future   Dr. Michael Rossi](https://www.youtube.com/watch?v=vMKSOVJEa0I)
+* [`Neutrality Studies` Russia & China United: The USA Made Kissingers Nightmare Come True   Prof. Rein Müllerson](https://www.youtube.com/watch?v=TC5JPXIwXU0)
+* [`Neutrality Studies` The 200-Year-Old Lie Pushing Us Towards Nuclear War   Dr. Jeffrey Sachs](https://www.youtube.com/watch?v=Nhmkua-KbTg)
 * [`T-House` Exclusive with UN Secretary-General António Guterres](https://www.youtube.com/watch?v=pZ8GhzmLfR8)
 * [`T-House` Virtual BRICS Summit 2025: China's Voice, Global South's Future](https://www.youtube.com/watch?v=yTZz4FBSHfc&pp=0gcJCckJAYcqIYzv)
 * [`T-House` From sports popularity to economic growth: Building bridges between China and Latin America](https://www.youtube.com/watch?v=kKfrMLb5n3k)
@@ -43,26 +45,25 @@ categories: weekly news
 * [`Think BRICS (YouTube)` BRICS Emergency Summit 2025: Key Decisions You Must Know!](https://www.youtube.com/watch?v=TI1vmVIm2is)
 * [`Think BRICS (substack)` BRICS Online Summit: Driving Trade, Challenging Unilateralism](https://thinkbrics.substack.com/p/reporting-the-brics-online-summit)
 * [`Thinkers Forum` Milei, Take Note: China Could Be Your Bargaining Chip with Trump](https://www.youtube.com/watch?v=zbKQr2tYJL4)
-* [`Neutrality Studies` The 200-Year-Old Lie Pushing Us Towards Nuclear War | Dr. Jeffrey Sachs](https://www.youtube.com/watch?v=Nhmkua-KbTg)
-* [`Progressive International` PI Briefing | No. 33 | Genocide on Trial | Progressive International](https://progressive.international/wire/2025-09-08-pi-briefing-no-33-genocide-on-trial/en)
-* [`Jamarl Thomas` Dan Kovalik | Real Reason Trump Green Lit Israel's Strike On Qatar](https://www.youtube.com/watch?v=KNubujfm9IQ)
-* [`Jamarl Thomas` Caleb Maupin | Why The US Is Tackling China Via Nepal](https://www.youtube.com/watch?v=F8u_XM-hBL4)
 * [`Wave Media` How China Saved the US and Europe In World War 2](https://www.youtube.com/watch?v=lMIH7ZuRZ80)
 * [`Wave Media` How the West Got China’s Parade So Wrong?](https://www.youtube.com/watch?v=6AJ6M61s8DM)
 * [`Wave Media` Why China’s V-Day Parade Left This Iraqi Reporter in TEARS](https://www.youtube.com/watch?v=b7_RuYpMFew)
-* [`Empire Watch` Carlos Martinez | Not Empire: China’s New World Order Is About Sovereignty](https://www.youtube.com/watch?v=ZeyDm0fBbN8)
-* [`Empire Watch` Carlos Martinez | Why the Left should support Chinese Socialism](https://www.youtube.com/watch?v=v9twHFrUuIg)
-* [`Empire Watch` Carlos Martinez | SCO Rising:How 43% of the World Is Rewriting Global Power](https://www.youtube.com/watch?v=2b2PdFMmjYI)
+* [`Empire Watch` Carlos Martinez   Not Empire: China’s New World Order Is About Sovereignty](https://www.youtube.com/watch?v=ZeyDm0fBbN8)
+* [`Empire Watch` Carlos Martinez   Why the Left should support Chinese Socialism](https://www.youtube.com/watch?v=v9twHFrUuIg)
+* [`Empire Watch` Carlos Martinez   SCO Rising:How 43% of the World Is Rewriting Global Power](https://www.youtube.com/watch?v=2b2PdFMmjYI)
 * [`Friends of Socialist China` China, Russia and Mongolia strengthen three-way friendship in Beijing - Friends of Socialist China](https://socialistchina.org/2025/09/13/china-russia-and-mongolia-strengthen-three-way-friendship-in-beijing/)
 * [`Friends of Socialist China` Xi Jinping meets leaders from Uzbekistan, Pakistan, Turkmenistan, Iran, Malaysia and Tajikistan - Friends of Socialist China](https://socialistchina.org/2025/09/13/xi-jinping-meets-leaders-from-uzbekistan-pakistan-turkmenistan-iran-malaysia-and-tajikistan/)
 * [`Friends of Socialist China` Xi Jinping meets leaders from Armenia, Belarus, Maldives, Azerbaijan, Kyrgyzstan, India and Türkiye - Friends of Socialist China](https://socialistchina.org/2025/09/11/xi-jinping-meets-leaders-from-armenia-belarus-maldives-azerbaijan-kyrgyzstan-india-and-turkiye/)
 * [`Friends of Socialist China` Xi Jinping meets UN Secretary General and leaders from Egypt, Myanmar and Kazakhstan](https://socialistchina.org/2025/09/10/xi-jinping-meets-un-secretary-general-and-leaders-from-egypt-myanmar-and-kazakhstan/)
 * [`Friends of Socialist China` BRICS countries seek common stand on ‘tariff wars’ - Friends of Socialist China](https://socialistchina.org/2025/09/09/brics-countries-seek-common-stand-on-tariff-wars/)
 * [`Friends of Socialist China` Taking inspiration from Chinese socialism: British delegates report back from China - Friends of Socialist China](https://socialistchina.org/2025/09/09/taking-inspiration-from-chinese-socialism-british-delegates-report-back-from-china/)
+* [`Jamarl Thomas` Dan Kovalik   Real Reason Trump Green Lit Israel's Strike On Qatar](https://www.youtube.com/watch?v=KNubujfm9IQ)
+* [`Jamarl Thomas` Caleb Maupin   Why The US Is Tackling China Via Nepal](https://www.youtube.com/watch?v=F8u_XM-hBL4)
 * [`Lee Kuan Yew School of Public Policy (LKY School)` Weaponized Interdependence: Critical Minerals in a Fracturing World](https://www.youtube.com/watch?v=Ba7k0oG7t3U)
 * [`The New Atlas` New US Administration, New Wonder Weapons for Ukraine](https://www.youtube.com/watch?v=eMwRZx0zlOY)
-* [`Aljazeera English` How did India-US relations decline so suddenly? | The Bottom Line](https://www.youtube.com/watch?v=K7d7n8DGibc)
+* [`Aljazeera English` How did India-US relations decline so suddenly?   The Bottom Line](https://www.youtube.com/watch?v=K7d7n8DGibc)
 * [`CNA` Global shipping on alert as conflicts threaten vital channels](https://www.youtube.com/watch?v=LO8-INnzKDM)
+* 
 
 # China
 
@@ -78,13 +79,14 @@ categories: weekly news
 * [`Global Times` Truth seen in Xizang: Massive investment in infrastructure contributes to Xizang](https://www.youtube.com/watch?v=vZUwIw5vR9Q)
 * [`Global Times` Truth seen in Xizang: Xizang's infrastructures links tradition with modernity](https://www.youtube.com/watch?v=rva4PbjKY9c)
 * [`Global Times` Decoding China: What China's major services trade fair shows about new opportunities?](https://www.youtube.com/watch?v=5S48n70ez9Q)
+* [`Global Times` Geoffrey Roberts EP02](https://www.youtube.com/watch?v=iWBimfqlaOk)
 * [`T-House` The message behind China's historic parade](https://www.youtube.com/watch?v=tjg6EQN2zCU)
 * [`T-House` CIFTIS 2025: China's secret growth engine?](https://www.youtube.com/watch?v=zRXoZFmmvEg)
 * [`Think BRICS (substack)` “9·3” military parade demonstrates China's determination to maintain world peace](https://thinkbrics.substack.com/p/93-military-parade-demonstrates-chinas)
 * [`Thinkers Forum` Can China Win the Race to Power the Future?](https://www.youtube.com/watch?v=yjuD_A97t0Q)
 * [`Wave Media` China Digs 700m Underground to Build Neutrino Detector](https://www.youtube.com/watch?v=blIrbP--bZ8)
 * [`Wave Media` BBC Lost the Narrative on China’s Parade](https://www.youtube.com/watch?v=fBnXP7eqI_4)
-* [`Wave Media` How China's Parade is Stopping World War 3? | Roughly Chinese Podcast EP9](https://www.youtube.com/watch?v=3e1SsY6SBCE)
+* [`Wave Media` How China's Parade is Stopping World War 3?   Roughly Chinese Podcast EP9](https://www.youtube.com/watch?v=3e1SsY6SBCE)
 * [`BRIX Sweden` Is China Plotting to Build A New World Order, and What Happened in Tianjin?](https://www.youtube.com/watch?v=GZylbx2jly0)
 * [`Friends of Socialist China` Scottish people’s contributions to China’s war of resistance remembered - Friends of Socialist China](https://socialistchina.org/2025/09/11/scottish-peoples-contributions-to-chinas-war-of-resistance-remembered/)
 * [`Friends of Socialist China` Entrevista: Como China está construyendo el socialismo - Friends of Socialist China](https://socialistchina.org/2025/09/10/entrevista-como-china-esta-construyendo-el-socialismo/)
@@ -113,7 +115,7 @@ categories: weekly news
 * [`Global Times` As Ishiba resigns as LDP leader, Japan faces a turning point: Victor Gao](https://www.youtube.com/watch?v=KWXtpEWUPpg)
 * [`Wave Media` What US Schools Never Taught You About Japan’s WW2 Crimes](https://www.youtube.com/watch?v=HVuHe0B1ZBw)
 * [`Friends of Socialist China` Kim Jong Un’s first China visit in six years draws world attention - Friends of Socialist China](https://socialistchina.org/2025/09/11/kim-jong-uns-first-china-visit-in-six-years-draws-world-attention/)
-* [`Aljazeera English` What is happening to relations between the US & South Korea? | Inside Story](https://www.youtube.com/watch?v=jfO7YvarY-U)
+* [`Aljazeera English` What is happening to relations between the US & South Korea?   Inside Story](https://www.youtube.com/watch?v=jfO7YvarY-U)
 
 # Singapore
 
@@ -127,11 +129,11 @@ categories: weekly news
 * [`CNA` 'Have to accept' national identity may not be most important identity for many Singaporeans: SM Lee](https://www.youtube.com/watch?v=E3BqmmYmEcs)
 * [`CNA` DPM Gan urges Singapore firms to take action and not 'wait and see' amid tariff uncertainty](https://www.youtube.com/watch?v=4FgbLvXB7oY)
 * [`CNA` Associate Professor Eugene Tan on opening of Singapore's 15th Parliament](https://www.youtube.com/watch?v=5lbet8ziVJg)
-* [`Straits Times` [FULL] PM Lawrence Wong: Self-radicalisation often preys on those who feel more isolated](https://www.youtube.com/watch?v=dIZoha8UrR4)
-* [`Straits Times` [FULL] Chan Chun Sing at Exercise Forging Sabre 2025](https://www.youtube.com/watch?v=ct6fUlnC0PI)
-* [`Straits Times` [FULL] K. Shanmugam on Charlie Kirk’s death: ‘The assassination is despicable’](https://www.youtube.com/watch?v=GZ-bH5jDRRw)
-* [`Straits Times` [FULL] NUS Kent Ridge Ministerial Forum with SM Lee Hsien Loong](https://www.youtube.com/watch?v=nNo6JuCycJs)
-* [`Straits Times` [FULL] Prime Minister Lawrence Wong on Singapore-India ties](https://www.youtube.com/watch?v=z6a481JTZG0)
+* [`Straits Times`  FULL  PM Lawrence Wong: Self-radicalisation often preys on those who feel more isolated](https://www.youtube.com/watch?v=dIZoha8UrR4)
+* [`Straits Times`  FULL  Chan Chun Sing at Exercise Forging Sabre 2025](https://www.youtube.com/watch?v=ct6fUlnC0PI)
+* [`Straits Times`  FULL  K. Shanmugam on Charlie Kirk’s death: ‘The assassination is despicable’](https://www.youtube.com/watch?v=GZ-bH5jDRRw)
+* [`Straits Times`  FULL  NUS Kent Ridge Ministerial Forum with SM Lee Hsien Loong](https://www.youtube.com/watch?v=nNo6JuCycJs)
+* [`Straits Times`  FULL  Prime Minister Lawrence Wong on Singapore-India ties](https://www.youtube.com/watch?v=z6a481JTZG0)
 
 # Southeast Asia
 
@@ -141,14 +143,14 @@ categories: weekly news
 
 * [`Diplomatify` Why the Trump-Xi jinping meeting in Kuala Lumpur could change ASEAN](https://www.youtube.com/watch?v=VFv8IGGyB-E)
 * [`FridayEveryday` Solid evidence that a color revolution is running in Indonesia](https://www.youtube.com/watch?v=IJQ5LwCdKR0&pp=0gcJCckJAYcqIYzv)
-* [`Progressive International` In Philippines, Indigenous peoples and advocates launch Defend Mindoro campaign against state abuses | Progressive International](https://progressive.international/wire/2025-09-03-in-philippines-indigenous-peoples-and-advocates-launch-defend-mindoro-campaign-against-state-abuses/en)
+* [`Progressive International` In Philippines, Indigenous peoples and advocates launch Defend Mindoro campaign against state abuses   Progressive International](https://progressive.international/wire/2025-09-03-in-philippines-indigenous-peoples-and-advocates-launch-defend-mindoro-campaign-against-state-abuses/en)
 * [`Think BRICS (YouTube)` Indonesia's BRICS Strategy No One Talks About...But Should!](https://www.youtube.com/watch?v=IrbnQVA0e9A)
 * [`Friends of Socialist China` Special friendship with Cambodia reflected in high-level visits - Friends of Socialist China](https://socialistchina.org/2025/09/11/special-friendship-with-cambodia-reflected-in-high-level-visits/)
 * [`The China-Global South Project` The Trump, Xi Foreign Policy Duel in Southeast Asia](https://www.youtube.com/watch?v=H78Omb_y-vQ)
 * [`The New Atlas` Continuity of Agenda: US Targets Indonesia - Seeks to Punish Jakarta for Joining BRICS](https://www.youtube.com/watch?v=BqgOn94c23M)
 * [`CNA` Fighting transnational crime: ASEAN leaders wrap up ministerial meeting in Malaysia](https://www.youtube.com/watch?v=OH_j9gpB8RQ)
 * [`CNA` ASEAN officials pledge tougher, united response on transnational crime](https://www.youtube.com/watch?v=EHTlN7M3c0k)
-* [`CNA` Billionaire behind bars: Thai court sends ex-PM Thaksin back to jail | CNA Correspondent podcast](https://www.youtube.com/watch?v=5B-ZrTBi4bM)
+* [`CNA` Billionaire behind bars: Thai court sends ex-PM Thaksin back to jail   CNA Correspondent podcast](https://www.youtube.com/watch?v=5B-ZrTBi4bM)
 * [`CNA` ASEAN ministers gather in Melaka for meeting on tackling transnational crime](https://www.youtube.com/watch?v=5oB22qivtLU)
 * [`CNA` Indonesian President Prabowo reshuffles strategic ministries following protests](https://www.youtube.com/watch?v=zBRRmlmsrYM)
 * [`CNA` Can ASEAN step up its peacekeeping role in the Thai-Cambodia border dispute?](https://www.youtube.com/watch?v=GcTXy0gU_Xc)
@@ -159,13 +161,12 @@ categories: weekly news
 
 *Analysis (AI)*: The political turmoil in Nepal, which saw the prime minister resign and the parliament burned, is a textbook example of a US-backed hybrid war operation. Framed as domestic unrest, its strategic objective is to execute "regime change" against a China-friendly government and disrupt Beijing's influence in a nation of key geopolitical importance. This serves the US imperial goal of encircling China. In India, while Prime Minister Modi addresses internal violence, the government's participation in BRICS and the Shanghai Cooperation Organisation (SCO) signals a strategic tilt towards the multipolar alliance with Russia and China, driven by the material benefits of sovereign development and resistance to US hegemony.
 
-
 * [`FridayEveryday` How the US achieved 'regime change' in China-friendly Nepal](https://www.youtube.com/watch?v=WAEqTgXUdeA)
-* [`Neutrality Studies` The West is CLUELESS: The Unbreakable India-Russia Friendship Explained | Dr. Anuradha Chenoy](https://www.youtube.com/watch?v=fHGLx1K-kbA)
+* [`Neutrality Studies` The West is CLUELESS: The Unbreakable India-Russia Friendship Explained   Dr. Anuradha Chenoy](https://www.youtube.com/watch?v=fHGLx1K-kbA)
 * [`Think BRICS (YouTube)` What's Really Behind Nepal's Turmoil and BRICS' Future?](https://www.youtube.com/watch?v=S8_2WPdx5N8&pp=0gcJCckJAYcqIYzv)
-* [`Empire Watch` Senator Mushahid Hussain Syed | Why the US Can’t Break the Pakistan-China Alliance](https://www.youtube.com/watch?v=KLlqpb0i4ZU)
-* [`Aljazeera English` Why is Gen Z protesting in Nepal? | The Take](https://www.youtube.com/watch?v=jWDltYOL6Zo)
-* [`Aljazeera English` Pakistan and India: What's the global cost of natural disasters? | Counting the Cost](https://www.youtube.com/watch?v=Jt18kdNwswE)
+* [`Empire Watch` Senator Mushahid Hussain Syed   Why the US Can’t Break the Pakistan-China Alliance](https://www.youtube.com/watch?v=KLlqpb0i4ZU)
+* [`Aljazeera English` Why is Gen Z protesting in Nepal?   The Take](https://www.youtube.com/watch?v=jWDltYOL6Zo)
+* [`Aljazeera English` Pakistan and India: What's the global cost of natural disasters?   Counting the Cost](https://www.youtube.com/watch?v=Jt18kdNwswE)
 * [`CNA` Nepalese army takes control after two days of deadly protests](https://www.youtube.com/watch?v=jpiZWzr_xP0)
 
 # Central Asia
@@ -173,6 +174,7 @@ categories: weekly news
 *Overview (AI)*: Kazakhstan announced the establishment of a new Ministry of Artificial Intelligence and has been active in foreign policy, partnering with Pakistan and sending a delegation to the Congo. President Kassym-Jomart Tokayev delivered a state-of-the-nation address, and the Astana Finance Days forum discussed future economic trends. In Kyrgyzstan, a parliamentarian criticized the tow-truck industry, and police conducted a raid against prostitution in the capital, Bishkek.
 
 *Analysis (AI)*: The region is increasingly pivoting away from unipolar domination and toward a multipolar framework, seeking to maximize its sovereignty and economic development. Kazakhstan's establishment of a new AI ministry and its multi-vectored foreign policy, including partnerships with Pakistan and delegations to the Congo, illustrate a strategy of building independent relationships outside the control of the imperial core. The Astana Finance Days forum underscores the region's ambition to become a node in the emerging Eurasian economic architecture, connecting with both the Chinese-led Belt and Road Initiative and other partners in the Global South.
+
 
 # Russia
 
@@ -212,35 +214,35 @@ categories: weekly news
 * [`Al Mayadeen English` Palestinians with disabilities: Invisible victims of ‘Israel’s’ war on Gaza](https://www.youtube.com/watch?v=_msgpWSBNAc)
 * [`Al Mayadeen English` Charlie Kirk, pro-'Israel' far-right activist, killed during speech at UVU](https://www.youtube.com/watch?v=6nJRkt-FzVQ)
 * [`Glenn Diesen` Seyed M. Marandi: Expect Strategic Ambiguity on Iran's Nuclear Program](https://www.youtube.com/watch?v=W46wuc5u7RQ)
-* [`Neutrality Studies` Destruction of Armenia: NATO's Plans Against Russia and Iran | A. Kachikian & P. Shakarian](https://www.youtube.com/watch?v=T49XvdKa6X4)
-* [`Progressive International` Overcrowding worsens in west Gaza City as Israel’s military advance displaces tens of thousands | Progressive International](https://progressive.international/wire/2025-09-04-overcrowding-worsens-in-west-gaza-city-as-israels-military-advance-displaces-tens-of-thousands/en)
-* [`Progressive International` The humanitarian crisis facing 42,000 forcibly displaced Palestinians in the West Bank | Progressive International](https://progressive.international/wire/2025-09-09-the-humanitarian-crisis-facing-42-000-forcibly-displaced-palestinians-in-the-west-bank/en)
+* [`Neutrality Studies` Destruction of Armenia: NATO's Plans Against Russia and Iran   A. Kachikian & P. Shakarian](https://www.youtube.com/watch?v=T49XvdKa6X4)
+* [`Progressive International` Overcrowding worsens in west Gaza City as Israel’s military advance displaces tens of thousands   Progressive International](https://progressive.international/wire/2025-09-04-overcrowding-worsens-in-west-gaza-city-as-israels-military-advance-displaces-tens-of-thousands/en)
+* [`Progressive International` The humanitarian crisis facing 42,000 forcibly displaced Palestinians in the West Bank   Progressive International](https://progressive.international/wire/2025-09-09-the-humanitarian-crisis-facing-42-000-forcibly-displaced-palestinians-in-the-west-bank/en)
 * [`Double Down News` Jewish Journalist EXPOSES Israel's DARKEST SECRET](https://www.youtube.com/watch?v=SJ5nSLIzUfk)
-* [`Jamarl Thomas` Laith Marouf | Gulf Arab Kingdoms Are Traitors To Islam: History, Resistance & Submission](https://www.youtube.com/watch?v=dKOqgoxcwsg)
-* [`Jamarl Thomas` Dimitri Lascaris | Qatar Won't Do A Damn Thing To Israel! | Gaza: The Day After The Killing Stops](https://www.youtube.com/watch?v=koerW3zEFus&pp=0gcJCckJAYcqIYzv)
-* [`Novara Media` Mass Arrests Prove Palestine Action Proscription Won’t Work | #novaralive](https://www.youtube.com/watch?v=mZQGFrqCf5U)
-* [`Novara Media` IDF Carries Out Attack On Senior Hamas Officials In Doha | #novaralive](https://www.youtube.com/watch?v=ZrpW4gXW22Y)
+* [`Jamarl Thomas` Laith Marouf   Gulf Arab Kingdoms Are Traitors To Islam: History, Resistance & Submission](https://www.youtube.com/watch?v=dKOqgoxcwsg)
+* [`Jamarl Thomas` Dimitri Lascaris   Qatar Won't Do A Damn Thing To Israel!   Gaza: The Day After The Killing Stops](https://www.youtube.com/watch?v=koerW3zEFus&pp=0gcJCckJAYcqIYzv)
+* [`Novara Media` Mass Arrests Prove Palestine Action Proscription Won’t Work   #novaralive](https://www.youtube.com/watch?v=mZQGFrqCf5U)
+* [`Novara Media` IDF Carries Out Attack On Senior Hamas Officials In Doha   #novaralive](https://www.youtube.com/watch?v=ZrpW4gXW22Y)
 * [`Novara Media` Gaza Flotilla Attacked With Incendiary Device](https://www.youtube.com/watch?v=woqHi46rwaE)
 * [`Novara Media` Gaza Flotilla Attacked Again](https://www.youtube.com/watch?v=fDzPTJ1mPmE)
 * [`Taihe Institute` The Iranian Situation (Ali Borhani) - TIO Talks 22](https://www.youtube.com/watch?v=pCDp8CeATFA)
-* [`Aljazeera English` How dangerous is the situation in the occupied West Bank? | Inside Story](https://www.youtube.com/watch?v=EOZKyBQWNw0)
-* [`Aljazeera English` The Battle for Donbas | Pinch Point](https://www.youtube.com/watch?v=uKmC3_Sp-1Q)
-* [`Aljazeera English` Recognising Palestine: why now and what does it mean? | Start Here](https://www.youtube.com/watch?v=yb-qGAaFVAc&pp=0gcJCckJAYcqIYzv)
-* [`Aljazeera English` Why did Israel strike Doha? | The Take](https://www.youtube.com/watch?v=a9TVoG6LdS0)
-* [`Aljazeera English` How will Israeli attack in Qatar affect efforts to end Gaza war? | Inside Story](https://www.youtube.com/watch?v=uSPqmRpBDBU)
-* [`Aljazeera English` How much of a burden has Israel become to the US? | Inside Story](https://www.youtube.com/watch?v=dVy0UrKbOAg)
-* [`Aljazeera English` Attack on Qatar: Israel’s ever-expanding war | The Listening Post](https://www.youtube.com/watch?v=BoDxk8ZPCM0)
-* [`Aljazeera English` Attack on Qatar: “Israel is trying to assassinate the concept of diplomacy itself” | UpFront](https://www.youtube.com/watch?v=bfwSPgIymKE)
+* [`Aljazeera English` How dangerous is the situation in the occupied West Bank?   Inside Story](https://www.youtube.com/watch?v=EOZKyBQWNw0)
+* [`Aljazeera English` The Battle for Donbas   Pinch Point](https://www.youtube.com/watch?v=uKmC3_Sp-1Q)
+* [`Aljazeera English` Recognising Palestine: why now and what does it mean?   Start Here](https://www.youtube.com/watch?v=yb-qGAaFVAc&pp=0gcJCckJAYcqIYzv)
+* [`Aljazeera English` Why did Israel strike Doha?   The Take](https://www.youtube.com/watch?v=a9TVoG6LdS0)
+* [`Aljazeera English` How will Israeli attack in Qatar affect efforts to end Gaza war?   Inside Story](https://www.youtube.com/watch?v=uSPqmRpBDBU)
+* [`Aljazeera English` How much of a burden has Israel become to the US?   Inside Story](https://www.youtube.com/watch?v=dVy0UrKbOAg)
+* [`Aljazeera English` Attack on Qatar: Israel’s ever-expanding war   The Listening Post](https://www.youtube.com/watch?v=BoDxk8ZPCM0)
+* [`Aljazeera English` Attack on Qatar: “Israel is trying to assassinate the concept of diplomacy itself”   UpFront](https://www.youtube.com/watch?v=bfwSPgIymKE)
 * [`CNA` Israel targets Hamas leadership in military strikes on Qatar](https://www.youtube.com/watch?v=qMDQFliPn2g)
-* [`Middle East Eye` Valerie Zink: Why I quit & cut up my Reuters press card over Gaza | Real Talk](https://www.youtube.com/watch?v=A5eKNHO7tyM)
-* [`Middle East Eye` Israel’s bombing of Qatar explained | Muhammad Shehada | UNAPOLOGETIC](https://www.youtube.com/watch?v=ez6vHKzXRqk)
-* [`Middle East Eye` Netanyahu sabotaging peace negotiations: a brief history | MEE LIVE](https://www.youtube.com/watch?v=yKrw-gXvs8E)
-* [`Middle East Eye` Middle East expert breaks down Israel's 'audacity' to bomb Qatar | MEE LIVE](https://www.youtube.com/watch?v=YXRg8OhOvaY)
-* [`Middle East Eye` Israel’s Doha Strike: Arab states must stand up to Israel | Soumaya Ghannoushi | MEE Opinion](https://www.youtube.com/watch?v=OfbOgALocyg)
-* [`Middle East Eye` Doha strike shows that no peace can be achieved by recognising Israel | David Hearst | MEE Opinion](https://www.youtube.com/watch?v=onDkZasW_oA)
-* [`Middle East Eye` Netanyahu’s gamble: Build greater Israel or make it a doomed pariah | David Hearst | UNAPOLOGETIC](https://www.youtube.com/watch?v=F78DytVO-NQ)
-* [`Middle East Eye` Charlie Kirk’s death sparks US-Israeli divisions | MEE Explains](https://www.youtube.com/watch?v=iAYidlvr_T4)
-* [`Middle East Eye` Who are the US biker gang working for Israel? | MEE Explains](https://www.youtube.com/watch?v=1YvLUQXs8gw)
+* [`Middle East Eye` Valerie Zink: Why I quit & cut up my Reuters press card over Gaza   Real Talk](https://www.youtube.com/watch?v=A5eKNHO7tyM)
+* [`Middle East Eye` Israel’s bombing of Qatar explained   Muhammad Shehada   UNAPOLOGETIC](https://www.youtube.com/watch?v=ez6vHKzXRqk)
+* [`Middle East Eye` Netanyahu sabotaging peace negotiations: a brief history   MEE LIVE](https://www.youtube.com/watch?v=yKrw-gXvs8E)
+* [`Middle East Eye` Middle East expert breaks down Israel's 'audacity' to bomb Qatar   MEE LIVE](https://www.youtube.com/watch?v=YXRg8OhOvaY)
+* [`Middle East Eye` Israel’s Doha Strike: Arab states must stand up to Israel   Soumaya Ghannoushi   MEE Opinion](https://www.youtube.com/watch?v=OfbOgALocyg)
+* [`Middle East Eye` Doha strike shows that no peace can be achieved by recognising Israel   David Hearst   MEE Opinion](https://www.youtube.com/watch?v=onDkZasW_oA)
+* [`Middle East Eye` Netanyahu’s gamble: Build greater Israel or make it a doomed pariah   David Hearst   UNAPOLOGETIC](https://www.youtube.com/watch?v=F78DytVO-NQ)
+* [`Middle East Eye` Charlie Kirk’s death sparks US-Israeli divisions   MEE Explains](https://www.youtube.com/watch?v=iAYidlvr_T4)
+* [`Middle East Eye` Who are the US biker gang working for Israel?   MEE Explains](https://www.youtube.com/watch?v=1YvLUQXs8gw)
 
 # Africa
 
@@ -249,12 +251,13 @@ categories: weekly news
 *Analysis (AI)*: The continent remains a key site of neocolonial exploitation and anti-imperialist resistance. Security crises in Nigeria, Mozambique, and the DRC are not isolated incidents but symptoms of a system of resource extraction maintained through instability and conflict, often fueled by external powers. Sudan's complaint against the UAE at the UN exposes the role of regional proxies in these resource wars. In this context, nations like Ethiopia (adopting EVs) and Rwanda (extracting methane gas) are attempting to pursue sovereign development projects. China's growing security and economic influence offers an alternative to the dependency model imposed by Western financial institutions and military interventions, representing a material challenge to imperial control.
 
 * [`AJ+` This Is Khartoum After 2 Years of War](https://www.youtube.com/watch?v=Nl5e8GOGn4I)
-* [`The China-Global South Project` Why Africa and Southeast Asia Need Each Other Now](https://www.youtube.com/watch?v=k5KEfMeafOM)
-* [`Jamarl Thomas` David Hundeyin | Ibrahim Traoré's Path To Liberation: Insidious Way US Controls Some African States](https://www.youtube.com/watch?v=oJO9TX-Wv7U)
+* [`Jamarl Thomas` David Hundeyin   Ibrahim Traoré's Path To Liberation: Insidious Way US Controls Some African States](https://www.youtube.com/watch?v=oJO9TX-Wv7U)
 * [`The China-Global South Project` China’s Gradual but Growing Security Influence in Africa](https://www.youtube.com/watch?v=InUtaR19R5k)
 * [`The China-Global South Project` Citi's Approach to Financing Africa’s Green Mobility](https://www.youtube.com/watch?v=IPnNgAozoIk)
 * [`The China-Global South Project` Kenya Caught Uncomfortably Between the U.S. and China](https://www.youtube.com/watch?v=uYtsQRuKqCY)
 * [`Al Mayadeen English` Understanding the M23-Rwanda-Congo conflict: What is NATO's role?](https://www.youtube.com/watch?v=h9UnvIw12r4)
+* [`The China-Global South Project` Why Africa and Southeast Asia Need Each Other Now](https://www.youtube.com/watch?v=k5KEfMeafOM)
+
 
 # Europe
 
@@ -271,26 +274,26 @@ categories: weekly news
 * [`Glenn Diesen` Alex Krainer: Economic Collapse & Civil War Fears in Europe](https://www.youtube.com/watch?v=XiJWLn8_E2M)
 * [`Glenn Diesen` Jacques Baud: The West Is Dying From Ideological Fundamentalism](https://www.youtube.com/watch?v=-DDjb9Wbeqs)
 * [`Michael Roberts Blog` Norway: the fossil fuel capital of Europe – Michael Roberts Blog](https://thenextrecession.wordpress.com/2025/09/07/norway-the-fossil-fuel-capital-of-europe/)
-* [`Neutrality Studies` Finland: The Next Neocon War To Entrap Russia And The USA | Tuomas Malinen](https://www.youtube.com/watch?v=cooOW1qt7Ng)
-* [`Neutrality Studies` Yugoslavia: The West's Playbook for Global Domination | Dr. George Szamuely](https://www.youtube.com/watch?v=cbhoRlR4h8o)
-* [`Neutrality Studies` The West Destroyed Its Own Diplomacy | Ambs. Zorilla, Ruch & Kusai](https://www.youtube.com/watch?v=F2nSoKqtRJ4)
-* [`Neutrality Studies` His Case BROKE The Internet, Exposed EU | Armando Mema](https://www.youtube.com/watch?v=3uIXyycgLXk)
-* [`Neutrality Studies` The Proxy-War Against Russia Is Older Than You Think, Includes Sweden | Mazze Nielsson](https://www.youtube.com/watch?v=EVbMttVcjeE)
+* [`Neutrality Studies` Finland: The Next Neocon War To Entrap Russia And The USA   Tuomas Malinen](https://www.youtube.com/watch?v=cooOW1qt7Ng)
+* [`Neutrality Studies` Yugoslavia: The West's Playbook for Global Domination   Dr. George Szamuely](https://www.youtube.com/watch?v=cbhoRlR4h8o)
+* [`Neutrality Studies` The West Destroyed Its Own Diplomacy   Ambs. Zorilla, Ruch & Kusai](https://www.youtube.com/watch?v=F2nSoKqtRJ4)
+* [`Neutrality Studies` His Case BROKE The Internet, Exposed EU   Armando Mema](https://www.youtube.com/watch?v=3uIXyycgLXk)
+* [`Neutrality Studies` The Proxy-War Against Russia Is Older Than You Think, Includes Sweden   Mazze Nielsson](https://www.youtube.com/watch?v=EVbMttVcjeE)
 * [`T-House` The Lisbon Maru rescue: When humanity defied war](https://www.youtube.com/watch?v=IXVqtAZZNXw)
 * [`Tarik Cyril Amar` Germany’s Annalena Baerbock – The Debility of Evil?](https://www.tarikcyrilamar.com/p/germanys-annalena-baerbock-the-debility-c3a)
 * [`Tarik Cyril Amar` Turning the Other Cheek to Terrorism](https://www.tarikcyrilamar.com/p/turning-the-other-cheek-to-terrorism)
 * [`Tarik Cyril Amar` Kaja Kallas: The void inside Europe’s decline](https://www.tarikcyrilamar.com/p/kaja-kallas-the-void-inside-europes)
 * [`Friends of Socialist China` Shoulder to shoulder: British people’s solidarity with the Chinese People’s War of Resistance Against Japanese Aggression - Friends of Socialist China](https://socialistchina.org/2025/09/09/shoulder-to-shoulder-british-peoples-solidarity-with-the-chinese-peoples-war-of-resistance-against-japanese-aggression/)
-* [`Jamarl Thomas` Sarah Bils | Truth About Putin's Huge Drone "Strike" On Poland, Article 4 Invoked, Charlie Kirk Dead](https://www.youtube.com/watch?v=O5sPnuMmdbo)
-* [`Jamarl Thomas` Jim Jatras | Putin Is Making A Serious Miscalculation In Ukraine Strategy](https://www.youtube.com/watch?v=3AoXL_xQRXI)
-* [`Jamarl Thomas` Ray McGovern | NATO Suffers Total Defeat By Russian "Drone Swarm": EU Targets Trump w/Psych Op](https://www.youtube.com/watch?v=hVo9JuC0xso&pp=0gcJCckJAYcqIYzv)
+* [`Jamarl Thomas` Sarah Bils   Truth About Putin's Huge Drone "Strike" On Poland, Article 4 Invoked, Charlie Kirk Dead](https://www.youtube.com/watch?v=O5sPnuMmdbo)
+* [`Jamarl Thomas` Jim Jatras   Putin Is Making A Serious Miscalculation In Ukraine Strategy](https://www.youtube.com/watch?v=3AoXL_xQRXI)
+* [`Jamarl Thomas` Ray McGovern   NATO Suffers Total Defeat By Russian "Drone Swarm": EU Targets Trump w/Psych Op](https://www.youtube.com/watch?v=hVo9JuC0xso&pp=0gcJCckJAYcqIYzv)
 * [`Novara Media` EU Slammed By China For Lack Of Basic History](https://www.youtube.com/watch?v=T3pCPOUUflA&pp=0gcJCckJAYcqIYzv)
-* [`Novara Media` Are We Living Through The End of An Empire? | Lea Ypi meets Aaron Bastani](https://www.youtube.com/watch?v=OIbmf8Q6T-k)
-* [`Novara Media` NATO Forces Shoot Down Russian Drone Over Poland | #NovaraLIVE](https://www.youtube.com/watch?v=PaFcIrVcwr4)
+* [`Novara Media` Are We Living Through The End of An Empire?   Lea Ypi meets Aaron Bastani](https://www.youtube.com/watch?v=OIbmf8Q6T-k)
+* [`Novara Media` NATO Forces Shoot Down Russian Drone Over Poland   #NovaraLIVE](https://www.youtube.com/watch?v=PaFcIrVcwr4)
 * [`Novara Media` Why English Councils Are Handing Money To Private Landlords](https://www.youtube.com/watch?v=iHmmWixlAB4)
 * [`Novara Media` Noam Chomsky Was Right About Political Violence](https://www.youtube.com/watch?v=QMTfRqBjZAs)
 * [`The New Atlas` Continuity of Agenda: US Targets Serbia - Trump Does Rerun of Clinton-Bush-era Regime Change](https://www.youtube.com/watch?v=HGaqIPhCtY0)
-* [`Aljazeera English` How might France fix its financial crisis? | Inside Story](https://www.youtube.com/watch?v=9_BtGXnawFo)
+* [`Aljazeera English` How might France fix its financial crisis?   Inside Story](https://www.youtube.com/watch?v=9_BtGXnawFo)
 * [`CNA` Poland says it shot down Russian drones that violated its airspace](https://www.youtube.com/watch?v=YrqqQNb7hb8)
 
 # Latin America & Caribbean
@@ -302,13 +305,13 @@ categories: weekly news
 * [`Breakthrough News` Trump’s Lying About Venezuela. It’s Not 'Drugs', It’s About Control.](https://www.youtube.com/watch?v=ZTvWgYE3Xk4)
 * [`Breakthrough News` Journalist BLASTS U.S. Lies About Venezuela](https://www.youtube.com/watch?v=P_CrVQsTTsk)
 * [`Geopolitical Economy Report` Trump's war on oil-rich Venezuela is based on lies: The real reasons why USA wants regime change](https://www.youtube.com/watch?v=zU17g3DXwiY)
-* [`Tricontinental (Dossiers)` Mexico and the Fourth Transformation | Tricontinental: Institute for Social Research](https://thetricontinental.org/dossier-mexico-fourth-transformation/)
-* [`Tricontinental (Newsletter)` It Would Be Fine to Help Make Mexico a Happy Place: The Thirty-Seventh Newsletter (2025) | Tricontinental: Institute for Social Research](https://thetricontinental.org/newsletterissue/mexico-fourth-transformation/)
+* [`Tricontinental (Dossiers)` Mexico and the Fourth Transformation   Tricontinental: Institute for Social Research](https://thetricontinental.org/dossier-mexico-fourth-transformation/)
+* [`Tricontinental (Newsletter)` It Would Be Fine to Help Make Mexico a Happy Place: The Thirty-Seventh Newsletter (2025)   Tricontinental: Institute for Social Research](https://thetricontinental.org/newsletterissue/mexico-fourth-transformation/)
 * [`India & Global Left` Ben Norton Reveals the Real Motive Behind US Escalation on Venezuela](https://www.youtube.com/watch?v=I9uKtxS7Ssc)
-* [`Progressive International` Repatriated Venezuelans Denounce ‘Abuse and Torture’ in El Salvador’s CECOT Mega Prison | Progressive International](https://progressive.international/wire/2025-09-05-repatriated-venezuelans-denounce-abuse-and-torture-in-el-salvadors-cecot-mega-prison/en)
+* [`Progressive International` Repatriated Venezuelans Denounce ‘Abuse and Torture’ in El Salvador’s CECOT Mega Prison   Progressive International](https://progressive.international/wire/2025-09-05-repatriated-venezuelans-denounce-abuse-and-torture-in-el-salvadors-cecot-mega-prison/en)
 * [`The New Atlas` US Targets Venezuela for Regime Change: Trump Cites False Pretext For More Regime Change](https://www.youtube.com/watch?v=3fClKZYymK0)
 * [`Aljazeera English` Argentina’s Milei suffers crushing setback in Buenos Aires election](https://www.youtube.com/watch?v=TZjvc5odYE8)
-* [`Aljazeera English` Inside the Haitian hospital on the front line of war | The Take](https://www.youtube.com/watch?v=ue8JuBbrSEM)
+* [`Aljazeera English` Inside the Haitian hospital on the front line of war   The Take](https://www.youtube.com/watch?v=ue8JuBbrSEM)
 * [`Aljazeera English` Jair Bolsonaro coup verdict: Former president sentenced to more than 27 years](https://www.youtube.com/watch?v=nG67qcPZx2c)
 
 # North America
@@ -318,35 +321,34 @@ categories: weekly news
 *Analysis (AI)*: The United States, the imperial core, is exhibiting signs of advanced internal decay and systemic contradiction. [[23]](https://www.scoop.co.nz/stories/WO2412/S00255/political-economy-contradictions-as-we-lurch-into-2025.htm)[[26]](https://www.quora.com/What-is-the-main-contradiction-of-the-United-States) The assassination of a major political commentator, Charlie Kirk, is a symptom of the extreme political polarization and violence fueled by a declining empire unable to meet the needs of its population. [[27]](https://www.globaltimes.cn/page/202509/1343050.shtml) The government's focus on external enemies and imperial maintenance, evidenced by the crackdown on immigrant labor at the Hyundai plant and the threat of another government shutdown, stands in stark contrast to its inability to solve deep domestic crises. [[28]](https://realeconomy.rsmus.com/morning-market-minute-the-contradictions-at-the-heart-of-u-s-economic-policy/) Former President Trump's planned talks with Putin and the creation of a "Quick Reaction Force" reflect the fracturing of the ruling class and the system's descent into instability as its global hegemony erodes.
 
 * [`Breakthrough News` Why Are Prisoners Setting Themselves on Fire at Red Onion?](https://www.youtube.com/watch?v=i5xCVBNfuhE)
-* [`Breakthrough News` What Jubilee Gets Wrong About Black America | Amanda Seales on ‘Surrounded’](https://www.youtube.com/watch?v=IuCBrAkC9DU)
+* [`Breakthrough News` What Jubilee Gets Wrong About Black America   Amanda Seales on ‘Surrounded’](https://www.youtube.com/watch?v=IuCBrAkC9DU)
 * [`Breakthrough News` Economist: The Federal Reserve Was Never ‘Independent’](https://www.youtube.com/watch?v=zsaWFKKhChA)
 * [`Breakthrough News` Why The American Dream Is Dead w/ Richard Wolff](https://www.youtube.com/watch?v=2-obt64AI08)
-* [`Richard D Wolff` Wolff Responds: "The Crisis Of Inequality" Dated September 10, 2025](https://www.youtube.com/watch?v=PVGg0T9kIyM)
-* [`Democracy at Work` Capitalism Hits Home: Labors of Love](https://www.youtube.com/watch?v=xP44a-qS4SI&pp=0gcJCckJAYcqIYzv)
-* [`Democracy at Work` Economic Update: The Fight Against Money Corrupting Politics](https://www.youtube.com/watch?v=Z3iGNLc1VXg)
-* [`Democracy at Work` Unredacted Tonight: The Dems' "Abundance Movement" is a Psy-Op!](https://www.youtube.com/watch?v=iEaFAmIDz1s&pp=0gcJCckJAYcqIYzv)
+* * [`Democracy at Work` Economic Update: The Fight Against Money Corrupting Politics](https://www.youtube.com/watch?v=Z3iGNLc1VXg)
 * [`Democracy at Work` Economic Update: An Argument for A New Labor Party](https://www.youtube.com/watch?v=uemUl5rcAO4&pp=0gcJCckJAYcqIYzv)
+* * [`Democracy at Work` Capitalism Hits Home: Labors of Love](https://www.youtube.com/watch?v=xP44a-qS4SI&pp=0gcJCckJAYcqIYzv)
 * [`Democracy at Work` Global Capitalism: Evidence and Symptoms: U.S. Capitalism’s Decline Accelerates](https://www.youtube.com/watch?v=mrzM-4CJMMo)
 * [`Democracy at Work` Unredacted Tonight: Is America Really Fighting 65 Countries?](https://www.youtube.com/watch?v=jiJ9OrhLCes&pp=0gcJCckJAYcqIYzv)
+* * [`Richard D Wolff` Wolff Responds: "The Crisis Of Inequality" Dated September 10, 2025](https://www.youtube.com/watch?v=PVGg0T9kIyM)
 * [`The Socialist Program` ICE Out of Chicago: Emergency Rally - YouTube](https://www.youtube.com/watch?v=5d0Zx6e_i0I)
 * [`The Socialist Program` Majority of Americans Have No Hope in the ‘American Dream’ AKA Capitalism, w/ Prof. Wolff](https://www.patreon.com/posts/138540464?collection=877189)
-* [`The Socialist Program` U.S. Warships and Fighter Jets Threaten Venezuela as Millions Join in Military Drills To Defend the Country [FULL]](https://www.patreon.com/posts/138454777?collection=877189)
+* [`The Socialist Program` U.S. Warships and Fighter Jets Threaten Venezuela as Millions Join in Military Drills To Defend the Country  FULL ](https://www.patreon.com/posts/138454777?collection=877189)
 * [`Transnational Foundation` Trump Brings Back the Department of War, Hurrah!](https://glenndiesen.substack.com/cp/172970955)
 * [`Al Mayadeen English` What is the US so obsessed with Venezuela?](https://www.youtube.com/watch?v=xY9OVHOKPzY)
 * [`Al Mayadeen English` Is the United States entering a new era of violence after the killing of Charlie Kirk?](https://www.youtube.com/watch?v=9PhzymFn_kc)
 * [`Glenn Diesen` Lawrence Wilkerson: America Is Retrenching & Alliances Fall Apart](https://www.youtube.com/watch?v=MujCTLhegRk)
-* [`India & Global Left` 5 Causes of Trump’s Economic Failures | What the Media Won’t Tell You](https://www.youtube.com/watch?v=51sDPokIIXc)
+* [`India & Global Left` 5 Causes of Trump’s Economic Failures   What the Media Won’t Tell You](https://www.youtube.com/watch?v=51sDPokIIXc)
 * [`T-House` Outlook: Widening tech divide as U.S. AI hurdles rise?](https://www.youtube.com/watch?v=w2p6UlGuh4M)
 * [`T-House` Trump's 100% tariff shock! EU caught in the middle?](https://www.youtube.com/watch?v=cJqEa6vy-jY)
 * [`Thinkers Forum` Behind Assange's Release: The Deal with the US](https://www.youtube.com/watch?v=RIeVqhrnZSM&pp=0gcJCckJAYcqIYzv)
-* [`Novara Media` Charlie Kirk Assassination Suspect In Custody, Named As Tyler Robinson | #NovaraLIVE](https://www.youtube.com/watch?v=hosoutYu_Ck)
+* [`Novara Media` Charlie Kirk Assassination Suspect In Custody, Named As Tyler Robinson   #NovaraLIVE](https://www.youtube.com/watch?v=hosoutYu_Ck)
 * [`The Intercept` A City Fights Back: How LA Defends Itself From ICE](https://www.youtube.com/watch?v=e9lRq9nfevs)
 * [`guancha` 查理·柯克的“人血馒头”，美国两派打算怎么吃？【逸语道破】](https://www.youtube.com/watch?v=zQfYdaEds8U)
-* [`Aljazeera English` What Charlie Kirk’s death says about political division in the US | The Take](https://www.youtube.com/watch?v=trelOvMZzzY)
-* [`Aljazeera English` What is fuelling political violence in America? | Inside Story](https://www.youtube.com/watch?v=9lwcy1Sty4Q)
+* [`Aljazeera English` What Charlie Kirk’s death says about political division in the US   The Take](https://www.youtube.com/watch?v=trelOvMZzzY)
+* [`Aljazeera English` What is fuelling political violence in America?   Inside Story](https://www.youtube.com/watch?v=9lwcy1Sty4Q)
 * [`CNA` Exercise Forging Sabre: SAF deploying three new types of drones at military drill in US](https://www.youtube.com/watch?v=cU1YR1wNxQA&pp=0gcJCckJAYcqIYzv)
 * [`CNA` Department of War: The message behind Trump’s US military rebrand](https://www.youtube.com/watch?v=q9tDXLWyR5E)
-* [`Middle East Eye` 9/11 - 24th anniversary | Why young Americans know nothing about the ‘war on terror’](https://www.youtube.com/watch?v=PI4eLe-n7xs)
+* [`Middle East Eye` 9/11 - 24th anniversary   Why young Americans know nothing about the ‘war on terror’](https://www.youtube.com/watch?v=PI4eLe-n7xs)
 
 # Oceania
 
@@ -357,13 +359,14 @@ categories: weekly news
 # In-Depth Analysis
 
 * [`AJ+` Colonialism Never Ended – It Just Became Debt](https://www.youtube.com/watch?v=j60coqGKqck)
-* [`Transnational Foundation` Dear Madam President - by TFF Transnational Foundation](https://thetransnational.substack.com/p/dear-madam-president)
 * [`Democracy at Work` Dialectic at Work: Ideology and Economics: Bourgeois Theories of Value](https://www.youtube.com/watch?v=9bGwI93OA5I)
+* [`Transnational Foundation` Dear Madam President - by TFF Transnational Foundation](https://thetransnational.substack.com/p/dear-madam-president)
+* [`Novara Media` Ancient History Frees the Political Imagination   Aaron Bastani Meets Josephine Quinn](https://www.youtube.com/watch?v=PUDmxmsaxqc)
 
 # Special Features
 
-* [`Novara Media` Ancient History Frees the Political Imagination | Aaron Bastani Meets Josephine Quinn](https://www.youtube.com/watch?v=PUDmxmsaxqc)
-* * [`The Deprogram` Pictures In Books (ft. Lady Izdihar)](https://www.youtube.com/watch?v=jcyq21hGI5I)
-* [`The Deprogram` Deep State Shenanigans (Ft. Alan Macleod) - The Deprogram Episode 197](https://www.youtube.com/watch?v=JFd_r4AGFAI)
 * [`Democracy at Work` Back Seat Socialism: Healthcare, Capitalism, and Blockbuster Horror](https://www.youtube.com/watch?v=yNFoEiIggw0)
 * [`Democracy at Work` The Build & Fight Formula Part 7B: Self Defense Part 2](https://www.youtube.com/watch?v=VzsLIjwmaoE)
+* [`Democracy at Work` Unredacted Tonight: The Dems' "Abundance Movement" is a Psy-Op!](https://www.youtube.com/watch?v=iEaFAmIDz1s&pp=0gcJCckJAYcqIYzv)
+* * [`The Deprogram` Pictures In Books (ft. Lady Izdihar)](https://www.youtube.com/watch?v=jcyq21hGI5I)
+* [`The Deprogram` Deep State Shenanigans (Ft. Alan Macleod) - The Deprogram Episode 197](https://www.youtube.com/watch?v=JFd_r4AGFAI)
