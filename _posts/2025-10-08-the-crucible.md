@@ -1,9 +1,11 @@
 ---
 layout: post
-title:  🌋 The Crucible: September 2025
+title:  🌋 The Crucible September 2025
 date:   2025-10-08 08:00:00 +0800
 categories: weekly news
 ---
+
+## **Introduction**
 
 **The Crucible** is a structured analytical methodology for cutting through the fog of mainstream geopolitical commentary. Standard analysis is a tool of distraction, designed to obscure the real drivers of global events. This monthly briefing is the antidote.
 
