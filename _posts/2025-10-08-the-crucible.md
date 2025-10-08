@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  🌋 The Crucible September 2025
+title:  🌋 The Crucible | September 2025
 date:   2025-10-08 08:00:00 +0800
 categories: weekly news
 ---
