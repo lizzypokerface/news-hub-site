@@ -217,3 +217,11 @@ Our analysis begins with the GPE diagnosis: we are operating within a decaying b
 *   **On De-dollarization and Financial Warfare:** We will not make loud pronouncements. We will act. We will quietly but steadily increase the proportion of gold and a basket of currencies, including the Yuan, in our national reserves. We will establish bilateral trade agreements with BRICS partners to conduct trade in local currencies, bypassing the dollar system for a growing portion of our commerce.
 
 *   **On the Global Surveillance State:** We recognize the inevitability of this trend. We will rebrand it. We will not call it surveillance. We will launch a national "**Smart Sovereignty**" initiative, framing digital IDs and data collection as the foundation for a hyper-efficient, secure, and stable society—an attractive haven for capital and talent fleeing the instability of the declining West. We will control our own data infrastructure as a core strategic asset.
+
+---
+
+### Author's Commentary
+
+> The author employs a radical, materialist analysis—Geopolitical Economy (GPE)—to define the "map of reality," identifying the true drivers of global conflict as imperial exploitation and class interests. Crucially, this critical diagnosis is not aimed at ideological dogma, but rather at developing a hyper-pragmatic, actionable strategy for maximizing a sovereign actor's survival and development in a fracturing world.
+>
+> The decision to post this detailed work online and publicly serves explicitly as a form of self-protection through radical transparency. By fully documenting the methodology and conclusions, the author preemptively counters blind or ignorant accusations (such as being labeled an ideological radical), challenging critics to evaluate the evidence and determine if the final output represents revolutionary extremism or logical, practical statecraft.
