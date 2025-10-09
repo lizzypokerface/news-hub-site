@@ -220,8 +220,8 @@ Our analysis begins with the GPE diagnosis: we are operating within a decaying b
 
 ---
 
-### Author's Commentary
+#### Author's Commentary
 
-> The author employs a radical, materialist analysis—Geopolitical Economy (GPE)—to define the "map of reality," identifying the true drivers of global conflict as imperial exploitation and class interests. Crucially, this critical diagnosis is not aimed at ideological dogma, but rather at developing a hyper-pragmatic, actionable strategy for maximizing a sovereign actor's survival and development in a fracturing world.
->
-> The decision to post this detailed work online and publicly serves explicitly as a form of self-protection through radical transparency. By fully documenting the methodology and conclusions, the author preemptively counters blind or ignorant accusations (such as being labeled an ideological radical), challenging critics to evaluate the evidence and determine if the final output represents revolutionary extremism or logical, practical statecraft.
+The author employs a radical, materialist analysis—Geopolitical Economy (GPE)—to define the "map of reality," identifying the true drivers of global conflict as imperial exploitation and class interests. Crucially, this critical diagnosis is not aimed at ideological dogma, but rather at developing a hyper-pragmatic, actionable strategy for maximizing a sovereign actor's survival and development in a fracturing world.
+
+The decision to post this detailed work online and publicly serves explicitly as a form of self-protection through radical transparency. By fully documenting the methodology and conclusions, the author preemptively counters blind or ignorant accusations (such as being labeled an ideological radical), challenging critics to evaluate the evidence and determine if the final output represents revolutionary extremism or logical, practical statecraft.
