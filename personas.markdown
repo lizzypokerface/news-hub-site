@@ -4,8 +4,6 @@ title: Personas
 permalink: /personas/
 ---
 
-# The Personas
-
 ## Introduction
 
 This document provides a deep-dive analysis of the eight core personas used in the Crucible Framework. Its purpose is to dissect the fundamental logic, worldview, and ideological underpinnings of each actor. By understanding how each persona constructs its reality from the ground up, we can better anticipate their arguments, identify their blind spots, and synthesize their strengths.
