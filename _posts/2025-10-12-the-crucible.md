@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 🌋 The Crucible | Mapping the Global Paradigm Shift
-date: 2025-10-08 12:00:00 +0800
+date: 2025-10-12 12:00:00 +0800
 categories: weekly news
 ---
 
