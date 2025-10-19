@@ -1,14 +1,14 @@
 ---
 layout: page
-title: Personas
-permalink: /personas/
+title: Analytical Models
+permalink: /analytical-models/
 ---
 
 ## Introduction
 
-This document provides a deep-dive analysis of the core personas used in the Crucible Framework. Its purpose is to dissect the fundamental logic, worldview, and ideological underpinnings of each actor. By understanding how each persona constructs its reality from the ground up, we can better anticipate their arguments, identify their blind spots, and synthesize their strengths.
+This document provides a deep-dive analysis of the core **Analytical Models** within the Crucible Framework. Its purpose is to dissect the fundamental logic, worldview, and ideological underpinnings of each model. By understanding how each model constructs reality from the ground up, we can better anticipate their arguments, identify their blind spots, and synthesize their strengths.
 
-Each profile is analyzed through several lenses, with a special focus on the relationship between the economic **Base** (the material reality of production and class relations) and the **Superstructure** (the realm of ideology, politics, and culture that justifies the Base). Crucially, each profile concludes with a guide on how a GPE practitioner can learn from and gain strategic leverage over that worldview.
+Each model is analyzed through several lenses, with a special focus on the relationship between the economic **Base** (the material reality of production and class relations) and the **Superstructure** (the realm of ideology, politics, and culture that justifies the Base). Crucially, each model concludes with a guide on how a GPE practitioner can learn from and gain strategic leverage over that worldview.
 
 ---
 
@@ -37,7 +37,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** The transnational capitalist class, especially the financial sector, which benefits from the removal of all barriers to capital accumulation and asset stripping.
 - **Relation to Base & Superstructure:** This worldview is the quintessential ideology of the **Superstructure** in the age of financialized capitalism. It takes the specific interests of the owners of the economic Base (capitalists) and presents them as universal, natural laws. It is a powerful ideological tool that masks its own nature as a justification for a specific set of class interests, framing them instead as "common sense" economics.
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They provide a real-time, unfiltered view into the **psychology and incentive structure of the capitalist class**. Their worldview isn't an accurate description of the world, but it *is* an accurate description of what the system's key beneficiaries *believe* and *desire*. Their analysis is a direct feed from the enemy's headquarters.
 - **How to Gain Leverage:**
@@ -55,7 +55,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** The hegemonic power (the US) and its core allies, whose dominance is legitimized and laundered through the language of "rules" and "norms" that they themselves disproportionately shape and selectively enforce.
 - **Relation to Base & Superstructure:** This is a core pillar of the **Superstructure**. It provides the moral and legal justification for the existing global order, which is built upon the capitalist economic Base. It makes the power of the hegemon appear benevolent and procedural rather than coercive and self-interested.
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They provide the **official rulebook and moral justification for the imperial system**. Their worldview maps out the entire superstructural apparatus of control: the specific articles of international law, UN resolutions, and human rights norms that will be weaponized by the hegemon.
 - **How to Gain Leverage:**
@@ -73,7 +73,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** The military-industrial complex and the national security state apparatus, which are given a permanent, timeless justification for their existence and ever-expanding budgets.
 - **Relation to Base & Superstructure:** Realism is a structural analysis of the **political Superstructure** (the state system) that is detached from the economic Base. It naturalizes the state's drive for power without asking *why* capitalist states define their "security" in such an expansionist way. It serves as a superstructural ideology that justifies endless conflict as "inevitable."
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They provide a powerful, unsentimental filter for **hard power calculations**. They are an essential antidote to wishful thinking, reminding us that no amount of moral righteousness can stop a tank.
 - **How to Gain Leverage:**
@@ -91,7 +91,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** National ruling classes who can use appeals to cultural grievance to divide the working class along ethnic or religious lines, distracting them from their material exploitation.
 - **Relation to Base & Superstructure:** This is a potent form of **superstructural ideology**. It is highly effective at obscuring the contradictions within the economic Base (class conflict) by creating and emphasizing horizontal conflicts based on culture and identity. It is a classic "divide and conquer" ideology.
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They understand the immense **mobilizing power of identity, culture, and emotion**. A purely economic GPE analysis can sometimes miss the visceral, non-rational forces that drive populations.
 - **How to Gain Leverage:**
@@ -109,7 +109,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** Paradoxically, the existing power structure can benefit from a critique so totalizing that it makes organized, truth-based opposition seem impossible or naive.
 - **Relation to Base & Superstructure:** This is a radical critique of the **Superstructure itself**. Its great strength is in dissecting these ideological tools. Its great weakness, from a GPE perspective, is that it often forgets that the Superstructure rests on a material **Base** of real bombs and real hunger.
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They provide an **elite toolkit for dissecting propaganda**. They are masters of discourse analysis, able to identify loaded terms, framing effects, and the subtle ways language produces power.
 - **How to Gain Leverage:**
@@ -127,7 +127,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** The Singaporean nation-state, which secures its existence and prosperity. By extension, the stability of the regional system from which it benefits.
 - **Relation to Base & Superstructure:** This is a model of a hyper-competent state actor consciously shaping its own national **Base** (high-tech economy, financial hub) and leveraging its **Superstructure** (diplomacy, legalism, reputation) to navigate and influence the global system for its own survival. It is a proactive manager of its own Base-Superstructure relationship to maximize autonomy in a world of giants.
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They provide a masterclass in **sovereign statecraft for non-great powers**. Their playbook is the most successful, real-world example of how to build a resilient national base as the non-negotiable prerequisite for an effective foreign policy. They teach that you cannot have strategic autonomy abroad without first achieving economic, social, and military resilience at home.
 - **How to Gain Leverage:** The goal is not to convert them, but to **learn from their model of base-building**. A GPE practitioner can adopt their methods for achieving economic diversification, fostering social cohesion, and building a credible defense as a foundational strategy. Their success proves that before a nation can effectively challenge the imperial system (GPE's goal), it must first make itself "un-bullyable" and indispensable through internal strength, as the Singaporean model demonstrates.
@@ -143,7 +143,7 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 - **Beneficiaries of this Worldview:** The Chinese nation-state and the continued rule and legitimacy of the CPC. In their view, also the broader Global South, which is offered an alternative, non-coercive development path.
 - **Relation to Base & Superstructure:** This is a unique and dynamic relationship. The CPC, as the core of the **Superstructure**, consciously and actively directs the development of the economic **Base**. Unlike in Western capitalism where the Superstructure largely *justifies* an existing Base, here the vanguard party uses its total control of the Superstructure (state, media, law, education) to plan and shape the Base toward a specific long-term socialist goal. It is a model of the Superstructure leading the Base.
 
-### GPE Strategic Leverage
+#### GPE Strategic Leverage
 
 - **What We Learn from Them:** They provide the only successful, large-scale, contemporary case study of a nation breaking free from the imperial periphery and challenging the hegemon. They offer a practical playbook on how to fuse state planning with market dynamism, how to weaponize economic development for geopolitical ends, and how to maintain political stability while undergoing rapid transformation.
 - **How to Gain Leverage:**
@@ -154,9 +154,9 @@ Each profile is analyzed through several lenses, with a special focus on the rel
 
 ### 9. The Fusion (The Sovereign GPE Practitioner)
 
-- **Core Philosophy:** Strategic Materialism. This persona combines the diagnostic power of GPE with the action-oriented mindset of a Realist. It accepts that the world is fundamentally shaped by imperial and class interests (GPE's map) but uses that map to pursue the ultimate Realist goal: state survival, sovereignty, and power.
-- **How They Interpret the World:** They start with the GPE analysis as the most accurate "map of reality." Then, they overlay the analyses of all the other personas as a "map of consciousness"—understanding how other actors think and what narratives they will use. The Market Fundamentalist's view tells them how capital will react. The Liberal Institutionalist's view tells them what justifications the hegemon will use. The CPC Strategist's view provides a playbook for sovereign development. This complete map is then used to chart a course of action.
-- **Real-World Proponents:** This is an idealized, synthetic persona. One might see echoes of it in the strategic thinking of leaders of rising powers who must be ideologically flexible but are ruthlessly grounded in their nation's material interests (e.g., the architects of China's development strategy or visionary leaders in the Global South).
+- **Core Philosophy:** Strategic Materialism. This model combines the diagnostic power of GPE with the action-oriented mindset of a Realist. It accepts that the world is fundamentally shaped by imperial and class interests (GPE's map) but uses that map to pursue the ultimate Realist goal: state survival, sovereignty, and power.
+- **How They Interpret the World:** They start with the GPE analysis as the most accurate "map of reality." Then, they overlay the analyses of all the other **models** as a "map of consciousness"—understanding how other actors think and what narratives they will use. The Market Fundamentalist's view tells them how capital will react. The Liberal Institutionalist's view tells them what justifications the hegemon will use. The CPC Strategist's view provides a playbook for sovereign development. This complete map is then used to chart a course of action.
+- **Real-World Proponents:** This is an idealized, synthetic **model**. One might see echoes of it in the strategic thinking of leaders of rising powers who must be ideologically flexible but are ruthlessly grounded in their nation's material interests (e.g., the architects of China's development strategy or visionary leaders in the Global South).
 - **Logical Outcomes & Prescriptions:** A multi-track, often seemingly contradictory, set of policies designed to exploit the system's fractures. They will publicly use the language of the Liberal Institutionalist, privately reassure capital like a Market Fundamentalist, study the CPC's playbook for industrial policy, and act decisively for sovereign gain like a GPE Analyst.
 - **Beneficiaries of this Worldview:** The sovereign nation-state that successfully implements this strategy, allowing it to increase its power and autonomy within a hostile global system.
 - **Relation to Base & Superstructure:** This is the ultimate synthesis. It uses a scientific analysis of the **Base** (GPE) to formulate a concrete plan to manipulate the **Superstructure** (diplomacy, narratives, law) with the explicit goal of improving its own material position *within* the global economic Base, and ultimately, contributing to the transformation of the Base itself. It is the point where analysis becomes a weapon for changing reality.
