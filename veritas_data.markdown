@@ -4,8 +4,6 @@ title: Veritas Data
 permalink: /vertias-data/
 ---
 
-# VeritasData: Global Dashboard
-
 Welcome to VeritasData. This is not another financial news terminal that drowns you in neutral, context-free numbers. Standard economic data tells you*what* is happening; we are here to show you *why it matters*.
 
 VeritasData is an analytical framework. We treat the global economy not as a weather report to be observed, but as a grand chessboard to be understood. Each data point on our dashboard is infused with a geopolitical economy perspective, transforming it from a simple metric into a clue about a nation's power, its constraints, and its strategic ambitions. We reveal the hidden architecture of the global system—the relationships of power and dependency that truly shape international affairs.
