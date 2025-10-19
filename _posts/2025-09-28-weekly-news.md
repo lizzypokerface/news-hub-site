@@ -7,8 +7,7 @@ categories: weekly news
 
 # Global
 
-### Global Stability Assessment: **3.0 / 10**  
-*Reflects a world teetering on the edge of systemic collapse, with multiple active crises and zero effective conflict resolution mechanisms.*  
+#### Global Stability Assessment: **3.0 / 10**  
 *(Full analysis in the appendix.)*
 
 Leaders convened for the UN General Assembly to discuss peace, justice, multilateralism, and global division, with climate change and sustainable development being dominant themes. China pledged emissions cuts and criticized US tariffs, while the US-EU trade deal failed. The global financial system showed signs of strain with China's push for de-dollarization, volatile markets, rising gold prices, and concerns over cyber threats and trade frictions. In international security, 187 nations supported a nuclear test ban treaty, while a G20 deal targeted hunger and the global south sought financial sovereignty. The escalating Israel-Gaza conflict prompted worldwide protests and the UN blacklisting of some companies for Palestinian rights violations. Other developments included a UN summit on AI governance, a fusion energy breakthrough, and the release of the Epstein files implicating global figures.

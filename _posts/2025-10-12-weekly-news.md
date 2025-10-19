@@ -7,8 +7,7 @@ categories: weekly news
 
 # Global
 
-### Global Stability Assessment: **3.5 / 10**  
-*The balance of forces currently favors continued deterioration unless active measures are taken to de-escalate military tensions, rebuild international cooperation frameworks, and address the underlying economic inequalities driving conflict.*  
+#### Global Stability Assessment: **3.5 / 10**  
 *(Full analysis in the appendix.)*
 
 International relations are marked by significant economic and diplomatic shifts. The IMF has warned of global economic uncertainty, while the BRICS nations are reportedly exploring a digital currency to challenge the U.S. dollar. Tensions between the U.S. and China persist, fueled by U.S. criticism of China's rare earth controls, proposed American tariffs, and an ongoing space race. In diplomacy, Venezuelan opposition leader María Corina Machado was awarded the Nobel Peace Prize, and the UN is facing a funding crunch. Numerous bilateral meetings occurred, including visits by Singapore's Prime Minister to Australia and New Zealand, China's Foreign Minister to Europe, and a planned visit by Canada's Foreign Minister to India, signaling a complex web of shifting alliances.

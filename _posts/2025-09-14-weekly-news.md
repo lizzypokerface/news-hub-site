@@ -7,8 +7,7 @@ categories: weekly news
 
 # Global
 
-### Global Stability Assessment: **3.75 / 10**  
-*Severe systemic stress approaching critical thresholds.*  
+#### Global Stability Assessment: **3.75 / 10**  
 *(Full analysis in the appendix.)*
 
 The United Nations has backed a two-state solution for the Palestine-Israel conflict, a resolution supported by multiple international bodies as the conflict intensifies. Global markets are experiencing volatility, with gold prices hitting record highs and general economic uncertainty linked to international tariffs. In other global developments, a lunar eclipse was observed worldwide, China is noted as leading the global transition to clean energy, and Russia launched a Progress cargo ship to the International Space Station. International shipping is on high alert due to various conflicts, and leaders at the BRICS summit heard calls from China's Xi Jinping to defend multilateralism and resist protectionism. Additionally, climate finance reforms and a historic mini-grid energy deal were discussed at a summit in Addis Ababa.
