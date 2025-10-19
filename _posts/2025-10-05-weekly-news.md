@@ -7,8 +7,7 @@ categories: weekly news
 
 # Global
 
-### Global Stability Assessment: **2.0 / 10**  
-*Reflects an unprecedented convergence of systemic failures across all analytical lenses*  
+#### Global Stability Assessment: **2.0 / 10**  
 *(Full analysis in the appendix.)*
 
 International relations are dominated by US-China strategic competition, marked by US restrictions on TikTok, an intensifying semiconductor battle, and US legislative efforts to counter Beijing. The Israel-Hamas conflict has triggered significant global repercussions, including widespread protests across Europe and other regions following Israel's interception of a Gaza-bound aid flotilla. A US-backed ceasefire plan is a central focus of diplomatic efforts, though it faces skepticism. In major power diplomacy, Russia and the US extended the START nuclear arms treaty, though Russia's envoy stated Moscow does not recognize UN sanctions on Iran. The death of renowned conservationist Jane Goodall was noted globally. Overarching trends include a surge in generative AI adoption, concerns over a growing global surveillance state, and market volatility signaled by an AI boom, a gold rush, and an oil slump.

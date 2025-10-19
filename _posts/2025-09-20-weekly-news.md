@@ -7,8 +7,7 @@ categories: weekly news
 
 # Global
 
-### Global Stability Assessment: **4.3 / 10**  
-*Reflects a world in serious distress but not yet in terminal crisis.*  
+#### Global Stability Assessment: **4.3 / 10**  
 *(Full analysis in the appendix.)*
 
 Multiple sources reported that the United States vetoed a United Nations Security Council resolution calling for a ceasefire in Gaza. In US-China relations, progress was noted on a deal concerning TikTok, with President Trump and President Xi discussing the matter via phone call. The US also delayed a potential ban on the platform. Broader trade talks between the US and China were held in Madrid and discussed at the WTO. The European Union now perceives Russia as a more significant danger, while former President Trump has threatened new sanctions against Russia. The EU is also accelerating its phase-out of Russian energy. A technology deal was signed between the US and the UK. In other diplomatic news, the 22nd China-ASEAN Expo opened, with reports of surging trade and cooperation on AI between the two. China is also championing partnerships with Latin America and strengthening cultural ties with the Arab League and Egypt. Taiwan and Canada jointly called for Taiwan's inclusion in the International Civil Aviation Organization (ICAO).
