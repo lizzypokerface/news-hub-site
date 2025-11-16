@@ -60,7 +60,7 @@ The Fusion practitioner would likely synthesize these views into the following s
 3.  **Sovereign Industrial Policy:** Reject Market Fundamentalist dogma. Use the CPC Strategist's approach as a case study to implement a state-guided industrial policy focused on key technologies (AI, biotech, green energy) to build technological sovereignty and move up the value chain.
 4.  **Narrative Control:** Acknowledge the Post-Structuralist insight that this is a war of narratives. Invest in a sophisticated state media apparatus to project a consistent message of neutrality, stability, and national interest, inoculating the population against foreign influence operations from all sides.
 </details>
-</br>
+<br>
 
 * [`Transnational Foundation` What the Sachs–Mearsheimer Debate Misses](https://biljanavankovska.substack.com/cp/178779291)
 * [`Transnational Foundation` Jan Oberg Exposes the Truth About Nuclear Weapons](https://thetransnational.substack.com/p/jan-oberg-exposes-the-truth-about)
@@ -159,7 +159,7 @@ The Fusion practitioner would likely synthesize these perspectives into a pragma
 3.  **Realist Hedging:** While deepening economic ties with China, heed the Realist analysis. Maintain and diversify security partnerships, including with the US, Japan, and India. This strategic hedge ensures we do not become a vassal state and preserves our freedom of maneuver.
 4.  **Adopt the Narrative of Success:** Use the CPC's own propaganda model. Frame our national development in terms of a unique, successful "national path," blending tradition with modernity. This builds domestic cohesion and provides a compelling story for international partners, as the Post-Structuralist would note.
 </details>
-</br>
+<br>
 
 * [`Geopolitical Economy Report` As China wins AI race, OpenAI begs US gov't for bailout when bubble pops](https://www.youtube.com/watch?v=4odSW2lSUyI)
 * [`The China Academy` What’s New in China’s New Five-Year Plan?](https://chinaacademy.substack.com/p/whats-new-in-chinas-new-five-year)
@@ -264,7 +264,7 @@ The Fusion practitioner would likely formulate the following strategy for a sove
 3.  **Diplomatic Off-Ramping:** Offer to host "Track 2" diplomatic dialogues between academics and former officials from China, Japan, and South Korea. This enhances our international prestige as a peacemaker (a Singaporean tactic) while providing invaluable intelligence on the true intentions of the major players.
 4.  **Counter-Narrative:** Reject the US-driven narrative of a "China threat." Instead, as the Post-Structuralist would advise, create and promote a narrative that frames regional instability as a product of "external great power rivalry" that threatens the prosperity of all Asian nations.
 </details>
-</br>
+<br>
 
 * [`Empire Watch` Is Japan Preparing Asia for War With China?](https://www.youtube.com/watch?v=j1kaZcIgxE0)
 * [`guancha` 一周军情观察：命运的馈赠，韩国为核潜艇准备好了吗？](https://www.youtube.com/watch?v=7JaIPdnkfqE)
@@ -322,7 +322,7 @@ The Fusion practitioner would likely analyze Singapore as a masterclass in sover
 3.  **Omnidirectional Hedging:** Implement Singapore's foreign policy. Maintain a strong economic partnership with China while simultaneously conducting military exercises and deepening security ties with the United States and other powers like India and Japan. This Realist balancing act maximizes autonomy.
 4.  **The Narrative of Unity:** Copy the PAP's communication strategy. Constantly reinforce a national narrative of vulnerability and the need for unity. Frame all government policy as essential for survival and prosperity, thereby building popular consent for pragmatic and sometimes difficult decisions, as the Post-Structuralist critique reveals.
 </details>
-</br>
+<br>
 
 * [`Keith Yap` Singapore's Top Investor: AI Will Change Everything - Hian Goh](https://www.youtube.com/watch?v=NY8AFr7hWSA)
 * [`CNA` PAP members, friends sent PM Lawrence Wong messages to prepare for worst in GE2025](https://www.youtube.com/watch?v=xy4nG31LoSc)
@@ -401,7 +401,7 @@ The Fusion practitioner would likely advise a sovereign Southeast Asian nation t
 3.  **Asymmetric Deterrence:** Do not get drawn into the US proxy strategy like the Philippines. Instead, quietly invest in a Realist-informed "poison shrimp" defense doctrine: acquire anti-ship missiles, drones, and cyber capabilities to make your nation an unattractive target for any great power.
 4.  **Nationalist Narrative:** As the Post-Structuralist suggests, control the domestic narrative. Promote a story of proud national sovereignty and pragmatic non-alignment, portraying the government as skillfully navigating between giants to secure peace and prosperity for its people.
 </details>
-</br>
+<br>
 
 * [`Breakthrough News` Manila's Strongman Marcos Jr. to Lead ASEAN: Will He Push War with China?](https://www.youtube.com/watch?v=pqDQH20vr5I)
 * [`Diplomatify` Did America Really Win in Southeast Asia?](https://www.youtube.com/watch?v=c5RFVZ9ihdQ)
@@ -468,7 +468,7 @@ The Fusion practitioner would likely advise a sovereign nation in the region to 
 3.  **Leverage the Middle Ground:** Position the nation as a neutral bridge between the competing blocs. Offer to host dialogues and refuse to join any military alliance (the Singaporean model). This neutrality becomes a strategic asset, increasing diplomatic leverage with all sides.
 4.  **Narrative of Sovereignty:** Use Post-Structuralist insight to craft a domestic narrative that rejects subordination to any foreign power. Frame partnerships with China, India, and the West not as dependency, but as the pragmatic choices of a sovereign nation skillfully navigating a complex world for its own benefit.
 </details>
-</br>
+<br>
 
 * [`Global Times` Made-for-China designs help preserve Pakistani brass craftsmanship](https://www.youtube.com/watch?v=2tmRaUJvzDc)
 * [`Progressive International` The North Bengal Floods Are the Cost of Development   Progressive International](https://progressive.international/wire/2025-11-11-the-north-bengal-floods-are-the-cost-of-development/en)
@@ -525,7 +525,7 @@ The Fusion practitioner would likely advise a Central Asian state to adopt a str
 3.  **Security Diversification:** While maintaining the security relationship with Russia as a backstop, diversify military training and equipment purchases. Buy drones from Turkey, light arms from Europe, and engage in training exercises with the US. This prevents total dependence on Moscow for security hardware and expertise.
 4.  **Narrative of the Bridge:** As the Post-Structuralist would advise, craft and relentlessly promote a national narrative of being the "Eurasian Bridge"—a peaceful, neutral, multi-civilizational hub connecting East and West, North and South. Frame all foreign policy moves as contributions to this constructive role.
 </details>
-</br>
+<br>
 
 * [`Global Times` Embarking on the Kazakh transhumance in Zhaosu   All-new Xinjiang](https://www.youtube.com/watch?v=JQ1Ay8PrXp4)
 * [`Think BRICS (substack)` Kazakhstan Between Powers: Tokayev’s Moscow Move After C5+1](https://thinkbrics.substack.com/p/the-red-carpet-of-pragmatism-why)
@@ -583,7 +583,7 @@ The Fusion practitioner would likely derive a clear set of "don'ts" and "dos" fo
 3.  **Diversify Before the Crisis:** Russia's pivot to China was a forced marriage. A wise sovereign state must build redundant trade and financial links with all major blocs (US, EU, China, India, Global South) *before* a crisis hits. The Singaporean model of omnidirectional engagement is the correct path.
 4.  **War-Proof the Economy:** Learn from Russia's war economy. Identify strategic industries (food, energy, defense, medicine) and ensure a high degree of domestic production capacity and resilient supply chains that do not rely on potentially hostile nations. This is a pragmatic insurance policy, not a move to autarky.
 </details>
-</br>
+<br>
 
 * [`Glenn Diesen` Gilbert Doctorow: The Impact of the Ukraine War on Russian Society](https://www.youtube.com/watch?v=4kMxKQNjJEs&pp=0gcJCQMKAYcqIYzv)
 * [`Glenn Diesen` Ian Proud: Legalising the Theft of Russian Assets](https://www.youtube.com/watch?v=trejWgtTJco)
@@ -643,7 +643,7 @@ The Fusion practitioner would likely advise a sovereign nation to adopt a strate
 3.  **Economic Opportunism:** As Western companies face boycotts and reputational damage for their complicity, proactively market your own nation's firms as ethical and neutral alternatives for trade and investment in the region.
 4.  **Inoculate the Homeland:** Acknowledge the Singaporean Strategist's fear of imported tensions. Launch a state-led public information campaign that validates public anger at the injustice in Gaza but channels it constructively, reinforcing the official state policy of principled neutrality and warning against domestic extremism of any kind. This protects social cohesion.
 </details>
-</br>
+<br>
 
 * [`AJ+` Billionaires Are Panicking Over Zohran Mamdani](https://www.youtube.com/watch?v=b_6E1hzYk20)
 * [`AJ+` Why “Greater Israel” Is No Longer A Fantasy](https://www.youtube.com/watch?v=-gDbGvK2Og0)
@@ -753,7 +753,7 @@ The Fusion practitioner would likely advise a sovereign African nation to adopt 
 3.  **Resource Nationalism and Value-Addition:** Reject the colonial model of simply exporting raw materials. Insist that foreign partners (Western or Chinese) build processing plants and refineries within your borders. Use the Indonesian model of banning raw nickel exports as a template. This captures more of the value chain and creates jobs.
 4.  **Pan-African Trade Bloc:** While engaging globally, prioritize building a functional regional economic bloc. A unified African market would have immense bargaining power, reducing the ability of external powers to pick off individual countries.
 </details>
-</br>
+<br>
 
 * [`Tricontinental (Newsletter)` Let the Sudanese People Walk toward Peace: The Forty-Sixth Newsletter (2025)   Tricontinental: Institute for Social Research](https://thetricontinental.org/newsletterissue/sudan-peace/)
 * [`Global Times` GT’s ‘Overseas China Week’ photo exhibition in South Africa shows China-Africa modernization pursuit](https://www.youtube.com/watch?v=heqQ8bqoRdo)
@@ -820,7 +820,7 @@ The Fusion practitioner would likely advise a sovereign nation to learn from Eur
 3.  **Exploit the Vacuum:** As European industries become uncompetitive due to high energy costs, aggressively target them for relocation. Offer tax incentives, a stable energy supply, and a non-ideological business environment to attract German, French, and Italian manufacturing firms, capturing their technology and capital.
 4.  **Strategic Patience:** Avoid being drawn into "value-based" crusades. While Europe is consumed by its conflict with Russia, focus on long-term economic development and building pragmatic trade relationships with the rising economies of Asia, Africa, and Latin America.
 </details>
-</br>
+<br>
 
 * [`Glenn Diesen` Michael Hudson: The Strange Case of Europe’s Decline & Self-Harm](https://www.youtube.com/watch?v=93SyF6H1M0Y)
 * [`Glenn Diesen` Gordon Hahn: The Strange Death of Europe](https://www.youtube.com/watch?v=1ilx5V8nBoM&pp=0gcJCQMKAYcqIYzv)
@@ -901,7 +901,7 @@ The Fusion practitioner would likely advise a sovereign Latin American nation to
 3.  **China as a Silent Partner:** Welcome Chinese investment in infrastructure, but do so quietly and on a project-by-project basis, avoiding grand strategic announcements like joining the Belt and Road Initiative. Use Chinese capital to build the domestic economic strength needed to have real, long-term sovereignty.
 4.  **Control the Narrative of "Moderation":** As the Post-Structuralist would advise, craft a national narrative of being a moderate, pragmatic, and reliable partner. Use the language of the Market Fundamentalist in forums with the IMF and US investors, while using the funds gained to pursue a nationalist development agenda at home.
 </details>
-</br>
+<br>
 
 
 * [`Breakthrough News` Trump’s LIES about Venezuela EXPOSED](https://www.youtube.com/watch?v=4cJ6lj4RFsY)
@@ -967,7 +967,7 @@ The Fusion practitioner would likely advise a sovereign nation to adopt a strate
 3.  **Prepare for Collapse Scenarios:** The US's instability poses a systemic risk to the global economy. A sovereign state must war-game scenarios of a rapid US economic or political collapse. This includes stress-testing the domestic financial system and ensuring security of supply for essential goods like food, energy, and medicine.
 4.  **Avoid Entanglement:** Do not take sides in the US's internal political battles. Offer no public comment on Trump, Mamdani, or the shutdown. Maintain a posture of strict, professional, state-to-state relations. Any entanglement in the US's internal chaos is a high-risk, low-reward proposition.
 </details>
-</br>
+<br>
 
 * [`Breakthrough News` Why Mamdani’s Win Terrifies the Right — And What’s Next](https://www.youtube.com/watch?v=1T4OTVfpWZ8)
 * [`Breakthrough News` Can This Small Town Stop the March of AI Data Centers?](https://www.youtube.com/watch?v=8jjOPCYS_rg)
@@ -1054,7 +1054,7 @@ The Fusion practitioner would likely advise a sovereign nation to adapt elements
 3.  **Hedge the Security Alliance:** The Realist is correct that New Zealand is a dependent state. A truly sovereign nation must avoid this. While maintaining a security relationship with a major power, one must always build independent capabilities and cultivate relationships with other powers to ensure one is a "partner," not a "protectorate."
 4.  **Exploit Economic Leverage:** Learn from the CPC's strategy towards New Zealand. Make your nation's market and resources indispensable to your security partner. Economic interdependence creates leverage and ensures your voice is heard, preventing you from being taken for granted.
 </details>
-</br>
+<br>
 
 * [`T-House` Exclusive with New Zealand's Minister for Science, Innovation & Technology Shane Reti](https://www.youtube.com/watch?v=Cvcp0-x9AEw)
 
