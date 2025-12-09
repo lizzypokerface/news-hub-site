@@ -7,7 +7,7 @@ categories: weekly news
 
 # Global
 
-#### Global Stability Assessment: ** 3.30 / 10**   
+#### Global Stability Assessment: **3.30 / 10**   
 *(Full analysis in the appendix.)*
 
 High-level diplomatic engagements defined the period, with French President Macron and Russian President Putin both holding separate, widely-covered meetings with Chinese President Xi and Indian Prime Minister Modi, respectively. The Russia-India talks focused on expanding trade, energy, and military trust. The China-France talks, which included Macron visiting Chengdu, resulted in calls for a ceasefire in Ukraine but reportedly yielded no major concessions. US-China relations remain a key focus, with discussions on business ties, AI hegemony, and ongoing tensions over Taiwan and a controversial Chinese embassy in the UK. The war in Ukraine continues to have global diplomatic repercussions, with the US and Europe reaffirming the need for unity, while the US was also noted for shifting support to anti-EU parties. International bodies were active, with the EU fining Elon Musk's X, the ICC facing US sanctions, and FIFA awarding a controversial peace prize to Donald Trump. In business, Netflix's acquisition of Warner Bros. Discovery for $72 billion was a major headline. Economic anxieties persist, with warnings of a blown $12 trillion bond market and the impact of potential aid cuts.
@@ -917,7 +917,7 @@ The Post-Structuralist Critic would likely deconstruct the narratives of "threat
 The Singaporean Strategist would likely view the escalating tension in Latin America, particularly around Venezuela, as a destabilizing factor for the global system. Any conflict that threatens oil supplies and creates massive refugee flows is bad for global stability and, therefore, bad for a trading nation like Singapore. The US's hardline stance is noted as a significant risk factor. From a strategic perspective, the most interesting development is the growing presence of other major powers, like China, in the region. This introduces a new layer of great power competition into the Western Hemisphere. For a small state, the lesson is clear: over-dependence on a single great power is dangerous. The nations of Latin America are learning this the hard way. Singapore's opening of an embassy in Mexico is a pragmatic move to diversify its own partnerships and build bridges to a region that, while turbulent, holds significant long-term economic potential.
 </details>
 
-<details
+<details>
 <summary><b>The CPC Strategist</b></summary>
 The CPC Strategist would likely see Latin America as a key front in the global anti-hegemony struggle. The US's aggressive actions against Venezuela and Cuba are viewed as the desperate thrashing of a declining empire trying to enforce the outdated Monroe Doctrine. This creates a perfect opportunity for China. By offering solidarity, unconditional investment (Belt and Road), and a partnership based on mutual respect and non-interference, China can win the support of nations in the region. The CPC's solidarity with Venezuela is not just symbolic; it is a strategic commitment to a fellow sovereign nation resisting US coercion. Chinese medical aid to Nicaragua is a prime example of soft power, contrasting China's role as a constructive partner with the US's role as a bully. The more the US threatens and sanctions, the more it pushes the region into China's arms, accelerating the transition to a multipolar world.
 </details>
