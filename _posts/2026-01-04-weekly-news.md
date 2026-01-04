@@ -5,6 +5,12 @@ date:   2026-01-04 08:00:00 +0800
 categories: weekly news
 ---
 
+<!-- Navigation -->
+**Navigate:**  
+[Global](#global) | [China](#china) | [East Asia](#east-asia) | [Singapore](#singapore) | [Southeast Asia](#southeast-asia) | [South Asia](#south-asia) | [Central Asia](#central-asia) | [Russia](#russia)  
+[West Asia (Middle East)](#west-asia-middle-east) | [Africa](#africa) | [Europe](#europe) | [Latin America & Caribbean](#latin-america--caribbean) | [North America](#north-america) | [Oceania](#oceania) | [In-Depth Analysis](#in-depth-analysis)
+
+
 # Global
 
 The international community is responding to a major US military intervention in Venezuela, with the UN Security Council calling an emergency meeting and nations like China, Russia, and Brazil condemning the action as a violation of international law. This event occurs amid a shifting geopolitical landscape marked by the expansion of the BRICS bloc and an intensifying technology rivalry between the US and China, particularly in artificial intelligence. Chinese automaker BYD has surpassed Tesla as the world's top electric vehicle manufacturer, while the Trump administration has blocked a China-linked firm from acquiring US chip assets. Broader global concerns include record-high temperatures over the past three years and analyses of how the global crude oil trade will shift in 2026.
