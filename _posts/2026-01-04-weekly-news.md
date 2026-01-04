@@ -609,7 +609,7 @@ The GPE analyst would likely see West Asia as a region where intra-imperialist r
 <details>
 <summary><b>The Market Fundamentalist</b></summary>
 The Market Fundamentalist would likely view the region as a chaotic mess of state failure and political risk, hostile to investment. The conflict in Yemen, the Israeli-Palestinian violence, and the protests in Iran all create massive uncertainty that destroys economic activity. The only rational place for capital is in the Gulf monarchies like the UAE and Saudi Arabia, which, despite their political systems, provide a degree of stability and are attempting to diversify their economies. Israel's ban on NGOs, while potentially disruptive to aid, may be seen as a necessary security measure to prevent funds from flowing to terrorist groups. The protests in Iran are a direct result of a failed socialist and theocratic economic model that has impoverished its people. The US threat of intervention is a risky but understandable response to a regime that sponsors terror and destabilizes the region. The only hope for prosperity is for these nations to abandon conflict and embrace market-based reforms.
-</details
+</details>
 
 <details>
 <summary><b>The Liberal Institutionalist</b></summary>
