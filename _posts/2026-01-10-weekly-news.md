@@ -7,7 +7,7 @@ categories: weekly news
 
 <a id='top'></a>
 
-<div style="text-align: center; margin: 20px 0;">
+<div style="text-align: left; margin: 20px 0;">
 <a href="#global" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; font-weight: 500; font-size: 0.9em;">Global</a>
 <a href="#china" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; font-weight: 500; font-size: 0.9em;">China</a>
 <a href="#east-asia" style="display: inline-block; padding: 6px 12px; margin: 4px; background-color: #f8f9fa; border: 1px solid #ddd; border-radius: 5px; text-decoration: none; color: #333; font-weight: 500; font-size: 0.9em;">East Asia</a>
@@ -106,7 +106,7 @@ The Fusion analysis would synthesize the lenses for a sovereign global actor. Th
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Democracy at Work` Economic Update: Globalization from Celebration to Condemnation](https://www.youtube.com/watch?v=dNdCpEQddYw)
 * [`Geopolitical Economy Report` When the USSR and China saved humanity: How they won the World Anti-Fascist War - Geopolitical Economy Report](https://geopoliticaleconomy.com/2025/12/26/ussr-china-world-anti-fascist-war/)
@@ -225,7 +225,7 @@ The Fusion analysis dictates a strategy of disciplined patience and asymmetric r
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Glenn Diesen` Jiang Xueqin: Predictions for 2026 - Empire, Rivalry & Collapse](https://www.youtube.com/watch?v=ORyCS0r2Tpg&pp=0gcJCU0KAYcqIYzv)
 * [`The China Academy (Substack)` What ChatGPT Will Never Be Capable Of](https://chinaacademy.substack.com/p/what-chatgpt-will-never-be-capable)
@@ -366,7 +366,7 @@ The Fusion analysis identifies the GPE reality: East Asia is the central arena f
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Guancha` It's time to let Japan experience what ecosystem-level supply chain suppression truly means. (Aph...](https://www.youtube.com/watch?v=lO0zeAn34uk)
 * [`T-House` Exclusive interview with ROK President Lee Jae Myung](https://www.youtube.com/watch?v=6yIPs1_THl4)
@@ -460,7 +460,7 @@ The Fusion analysis concludes that Singapore's strategy is already a highly evol
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Keith Yap` Lee Kuan Yew's Right-Hand Man : What Singapore's Founding Fathers Got Right](https://www.youtube.com/watch?v=o6F8gNWat44)
 * [`Prime Minister's Office, Singaporea` DPM Gan Kim Yong at the Launch of the CDC Vouchers Scheme 2026 (January)](https://www.youtube.com/watch?v=HTwB04Hv4qQ)
@@ -561,7 +561,7 @@ The Fusion analysis identifies the GPE reality: Southeast Asia is a key battlegr
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Kishore Mahbubani` GBA: One of the Seven Wonders of the World - Kishore Mahbubani](https://mahbubani.net/gba-one-of-the-seven-wonders-of-the-world/)
 * [`Diplomatify` The Crisis That Brought Islam Into Malaysia’s Foreign Policy](https://www.youtube.com/watch?v=olrSqkgcktE)
@@ -659,7 +659,7 @@ The Fusion analyst, advising a South Asian state, would synthesize these lenses 
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`India & Global Left` How the Kerala Model Ended Absolute Poverty — Ex Kerala Finance Minister Thomas Isaac Explains](https://www.youtube.com/watch?v=FGhTlJi0F3w)
 * [`NewsClick - Prahbat Patnaik` MGNREGA Demolition: Brazen Assault on Constitution - NewsClick](https://www.newsclick.in/mgnrega-demolition-brazen-assault-constitution)
@@ -754,7 +754,7 @@ The Fusion analyst, advising a Central Asian state, would formulate a strategy o
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 # Russia <a id='russia'></a>
 
@@ -841,7 +841,7 @@ The Fusion analyst, advising a state like Russia, would recognize the grim neces
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Glenn Diesen` Larry Johnson: Russia Will Retaliate After Attack on Putin's Residence](https://www.youtube.com/watch?v=_cRsnM_jtZw)
 * [`Glenn Diesen` Marta Havryshko: Ukraine Trapped in Narratives Designed for a Long War](https://www.youtube.com/watch?v=RxJXYH_RLOc)
@@ -939,7 +939,7 @@ The Fusion analyst, advising a major West Asian state (e.g., Saudi Arabia or Ira
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Glenn Diesen` Alastair Crooke: Decline, Irrationality & War on Iran](https://www.youtube.com/watch?v=_ltGrKLsZgo&pp=0gcJCU0KAYcqIYzv)
 * [`India & Global Left` Mohammad Marandi Exposes Western Lies About Iran, Sanctions & War](https://www.youtube.com/watch?v=-Pntz0KT5OA)
@@ -1076,7 +1076,7 @@ The Fusion analyst, advising a strategic African nation, would devise a policy o
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Progressive International` Building the Frantz Fanon School: An interview with Mqapheli Bonono - Progressive International](https://progressive.international/wire/2026-01-06-building-the-frantz-fanon-school-an-interview-with-mqapheli-bonono/en/)
 * [`Jamarl Thomas` David Hundeyin - US Israel Plans To Partition Nigeria](https://www.youtube.com/watch?v=kxlnGuCL274)
@@ -1174,7 +1174,7 @@ The Fusion strategist would see Europe's subjugation as both a warning and an op
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Glenn Diesen` Nicolai Petro: Chaos After Ukraine Collapses](https://www.youtube.com/watch?v=Hx9M56qURIA)
 * [`Glenn Diesen` Ian Proud: Britain’s Decline & Search for a New Purpose](https://www.youtube.com/watch?v=dAk4nYnJhXg&pp=0gcJCU0KAYcqIYzv)
@@ -1281,7 +1281,7 @@ The Fusion strategist recognizes the GPE reality: this is a violent resource gra
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Breakthrough News` Report from Caracas After the Bombs: Venezuelans Denounce Maduro’s ‘Kidnapping’](https://www.youtube.com/watch?v=Q8QUWxza6IY)
 * [`Breakthrough News` Vijay Prashad: Why the US Will Never ‘Rule’ Venezuela](https://www.youtube.com/watch?v=0kWSrz8fIXU)
@@ -1459,7 +1459,7 @@ The Fusion strategist sees the GPE reality: the imperial core is decaying, and i
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Breakthrough News` Explained: Why Trump Wants to Take Greenland w/ Ben Norton](https://www.youtube.com/watch?v=IawOB5eOokI)
 * [`Breakthrough News (Livestreams)` LIVE: US Regime Change FAILS in Venezuela - ICE Killing in Minneapolis](https://www.youtube.com/watch?v=XTYF1xm9n3Q)
@@ -1600,7 +1600,7 @@ The Fusion strategist sees the GPE reality: Australia is a resource-exporting de
 
 <br>
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 * [`Jacobin` The Right Is Exploiting the Bondi Massacre to Silence Dissent](https://jacobin.com/2026/01/australia-bondi-antisemitism-protest-palestine)
 * [`CNA` Intense heatwave grips southern Australia, triggering bushfires](https://www.youtube.com/watch?v=Qz2w7qlEgmM)
@@ -1635,7 +1635,7 @@ The Fusion strategist sees the GPE reality: Australia is a resource-exporting de
 * [`Aljazeera English` What does Israel’s recognition of Somaliland mean for the region? - The Take](https://www.youtube.com/watch?v=yAyxAszF0bM)
 * [`CNA` Major EU-MERCOSUR trade deal could be signed despite opposition by European farm lobbies](https://www.youtube.com/watch?v=YqZi1a1R1UE)
 
-<div style="text-align: right; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
+<div style="text-align: left; margin-bottom: 10px;"><a href="#top" style="display: inline-block; padding: 4px 10px; font-size: 0.8em; color: #6c757d; border: 1px solid #dee2e6; border-radius: 4px; text-decoration: none; background-color: #fff;">↑ Back to Top</a></div>
 
 ---
 ### Sources
